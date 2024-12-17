@@ -1,0 +1,209 @@
+,rank,movie_name,gross_earnings,director(s)
+0,2,The Godfather,250342198,Francis Ford Coppola
+1,3,The Dark Knight,1009025676,Christopher Nolan
+2,4,The Lord of the Rings: The Return of the King,1138027091,Peter Jackson
+3,6,Schindler's List,322161245,Steven Spielberg
+4,8,The Lord of the Rings: The Fellowship of the Ring,888120042,Peter Jackson
+5,9,Pulp Fiction,213928762,Quentin Tarantino
+6,10,Inception,839030630,Christopher Nolan
+7,12,Forrest Gump,678226465,Robert Zemeckis
+8,13,The Lord of the Rings: The Two Towers,938210343,Peter Jackson
+9,16,Interstellar,725684091,Christopher Nolan
+10,17,The Matrix,467840449,"Lana Wachowski, Lilly Wachowski"
+11,20,Star Wars: Episode V - The Empire Strikes Back,550016086,Irvin Kershner
+12,27,Se7en,327333559,David Fincher
+13,28,The Silence of the Lambs,272742922,Jonathan Demme
+14,29,The Green Mile,286801374,Frank Darabont
+15,30,Spider-Man: Across the Spider-Verse,690824738,"Joaquim Dos Santos, Kemp Powers, Justin K. Thompson"
+16,31,Star Wars: Episode IV - A New Hope,775398507,George Lucas
+17,32,Saving Private Ryan,482351251,Steven Spielberg
+18,34,Terminator 2: Judgment Day,520881154,James Cameron
+19,35,Spirited Away,358129968,Hayao Miyazaki
+20,36,Life Is Beautiful,230099013,Roberto Benigni
+21,39,Gladiator,465390350,Ridley Scott
+22,40,Dune: Part Two,714444358,Denis Villeneuve
+23,42,Parasite,262129969,Bong Joon Ho
+24,43,The Lion King,1662020819,Jon Favreau
+25,43,The Lion King,981708285,"Roger Allers, Rob Minkoff"
+26,44,The Departed,291481358,Martin Scorsese
+27,47,Back to the Future,384577472,Robert Zemeckis
+28,49,Django Unchained,426076293,Quentin Tarantino
+29,57,The Intouchables,426590315,"Olivier Nakache, Éric Toledano"
+30,65,Inglourious Basterds,321460456,Quentin Tarantino
+31,66,Raiders of the Lost Ark,389925971,Steven Spielberg
+32,67,Avengers: Endgame,2799439100,"Anthony Russo, Joe Russo"
+33,68,Joker,1078958629,Todd Phillips
+34,69,The Dark Knight Rises,1114975066,Christopher Nolan
+35,73,Avengers: Infinity War,2052415039,"Anthony Russo, Joe Russo"
+36,75,Spider-Man: Into the Spider-Verse,393602435,"Bob Persichetti, Peter Ramsey, Rodney Rothman"
+37,77,WALL·E,527403656,Andrew Stanton
+38,78,Coco,814641172,"Lee Unkrich, Adrian Molina"
+39,81,Your Name.,382241103,Makoto Shinkai
+40,94,Oppenheimer,975584123,Christopher Nolan
+41,97,Good Will Hunting,225933435,Gus Van Sant
+42,98,American Beauty,356296601,Sam Mendes
+43,100,Braveheart,213216216,Mel Gibson
+44,101,Heat,187436818,Michael Mann
+45,109,Toy Story,394436586,John Lasseter
+46,112,Star Wars: Episode VI - Return of the Jedi,482466382,Richard Marquand
+47,116,Up,735102136,"Pete Docter, Bob Peterson"
+48,119,Toy Story 3,1067316101,Lee Unkrich
+49,133,Dangal,303723636,Nitesh Tiwari
+50,142,The Wolf of Wall Street,407039432,Martin Scorsese
+51,145,Spider-Man: No Way Home,1921373347,Jon Watts
+52,146,Top Gun: Maverick,1495696292,Joseph Kosinski
+53,147,Jurassic Park,1104379926,Steven Spielberg
+54,149,The Truman Show,264118712,Peter Weir
+55,151,Batman Begins,375398269,Christopher Nolan
+56,152,Indiana Jones and the Last Crusade,474171806,Steven Spielberg
+57,153,Shutter Island,294942469,Martin Scorsese
+58,156,The Sixth Sense,672806432,M. Night Shyamalan
+59,157,1917,390411425,Sam Mendes
+60,158,Green Book,321752656,Peter Farrelly
+61,161,Howl's Moving Castle,240420227,Hayao Miyazaki
+62,163,A Beautiful Mind,316791257,Ron Howard
+63,167,Finding Nemo,941637960,"Andrew Stanton, Lee Unkrich"
+64,169,Gone with the Wind,402382193,"Victor Fleming, George Cukor, Sam Wood"
+65,181,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,473230408,Haruo Sotozaki
+66,189,Baahubali 2: The Conclusion,254158390,S.S. Rajamouli
+67,214,Pirates of the Caribbean: The Curse of the Black Pearl,654264546,Gore Verbinski
+68,215,Harry Potter and the Deathly Hallows: Part 2,1342480797,David Yates
+69,216,Mad Max: Fury Road,380437267,George Miller
+70,218,Catch Me If You Can,352114312,Steven Spielberg
+71,219,Dead Poets Society,235860116,Peter Weir
+72,222,A Christmas Carol,325286646,Robert Zemeckis
+73,223,The Help,221802186,Tate Taylor
+74,225,Gone Girl,370890259,David Fincher
+75,228,Inside Out,859076254,"Pete Docter, Ronnie Del Carmen"
+76,229,How to Train Your Dragon,494879860,"Dean DeBlois, Chris Sanders"
+77,236,Jaws,477220580,Steven Spielberg
+78,240,Ratatouille,623728318,"Brad Bird, Jan Pinkava"
+79,241,Logan,619180476,James Mangold
+80,242,The Exorcist,430872776,William Friedkin
+81,243,Ford v Ferrari,225508210,James Mangold
+82,248,Million Dollar Baby,216763646,Clint Eastwood
+83,252,12 Years a Slave,187734091,Steve McQueen
+84,253,"Monsters, Inc.",579723931,"Pete Docter, David Silverman, Lee Unkrich"
+85,264,Gran Torino,269958228,Clint Eastwood
+86,347,Dune: Part One,407673628,Denis Villeneuve
+87,348,Blade Runner 2049,276605984,Denis Villeneuve
+88,349,Casino Royale,616577552,Martin Campbell
+89,351,Guardians of the Galaxy,773350376,James Gunn
+90,352,Deadpool,782837347,Tim Miller
+91,353,La La Land,509183536,Damien Chazelle
+92,356,Black Swan,329398046,Darren Aronofsky
+93,357,The Avengers,1520538536,Joss Whedon
+94,358,The Revenant,532950503,Alejandro G. Iñárritu
+95,359,The Martian,630621406,Ridley Scott
+96,360,The Incredibles,631688498,Brad Bird
+97,361,Zootopia,1025521689,"Byron Howard, Rich Moore, Jared Bush"
+98,362,Slumdog Millionaire,378411362,"Danny Boyle, Loveleen Tandan"
+99,365,The Imitation Game,233555708,Morten Tyldum
+100,369,Planet of the Apes,362211740,Tim Burton
+101,371,The Pursuit of Happyness,307127625,Gabriele Muccino
+102,373,Beauty and the Beast,1266115964,Bill Condon
+103,373,Beauty and the Beast,424967620,"Gary Trousdale, Kirk Wise"
+104,596,Beauty and the Beast,1266115964,Bill Condon
+105,596,Beauty and the Beast,424967620,"Gary Trousdale, Kirk Wise"
+106,375,Aladdin,1054304000,Guy Ritchie
+107,375,Aladdin,504050219,"Ron Clements, John Musker"
+108,381,Dances with Wolves,424208848,Kevin Costner
+109,389,Rain Man,354825435,Barry Levinson
+110,393,The King's Speech,472088310,Tom Hooper
+111,396,The Bourne Ultimatum,444100035,Paul Greengrass
+112,398,JFK,205405498,Oliver Stone
+113,479,Titanic,2264750694,James Cameron
+114,482,Harry Potter and the Prisoner of Azkaban,808485294,Alfonso Cuarón
+115,483,Knives Out,312897920,Rian Johnson
+116,485,Guardians of the Galaxy Vol. 3,845555777,James Gunn
+117,489,Arrival,208944807,Denis Villeneuve
+118,490,Avatar,2923706026,James Cameron
+119,492,Iron Man,585796247,Jon Favreau
+120,493,Edge of Tomorrow,377044245,Doug Liman
+121,495,Shrek,488628188,"Andrew Adamson, Vicky Jenson"
+122,498,Thor: Ragnarok,855301806,Taika Waititi
+123,502,Bohemian Rhapsody,910813521,Bryan Singer
+124,503,E.T. the Extra-Terrestrial,797307407,Steven Spielberg
+125,504,Star Trek,385681768,J.J. Abrams
+126,507,Wonder,315025930,Stephen Chbosky
+127,510,District 9,210888950,Neill Blomkamp
+128,511,X-Men: Days of Future Past,746045700,Bryan Singer
+129,515,Toy Story 2,497375381,"John Lasseter, Ash Brannon, Lee Unkrich"
+130,518,Life of Pi,609016565,Ang Lee
+131,522,"Crouching Tiger, Hidden Dragon",213978518,Ang Lee
+132,536,King Kong,556906378,Peter Jackson
+133,608,The Batman,772272279,Matt Reeves
+134,614,Little Women,218843645,Greta Gerwig
+135,618,Get Out,255751443,Jordan Peele
+136,619,Puss in Boots: The Last Wish,481757663,"Joel Crawford, Januel Mercado"
+137,621,Skyfall,1108594137,Sam Mendes
+138,622,Rogue One: A Star Wars Story,1058684742,Gareth Edwards
+139,627,The Hobbit: An Unexpected Journey,1017107150,Peter Jackson
+140,628,American Gangster,269755430,Ridley Scott
+141,630,Ghostbusters,296578797,Ivan Reitman
+142,630,Ghostbusters,229147509,Paul Feig
+143,634,The Girl with the Dragon Tattoo,232617430,David Fincher
+144,695,The Girl with the Dragon Tattoo,232617430,David Fincher
+145,635,Dunkirk,530432122,Christopher Nolan
+146,641,The Social Network,224927749,David Fincher
+147,643,Hidden Figures,235957472,Theodore Melfi
+148,644,Star Wars: Episode VII - The Force Awakens,2071310218,J.J. Abrams
+149,649,Coraline,185768322,Henry Selick
+150,650,The Hobbit: The Desolation of Smaug,959079095,Peter Jackson
+151,657,The Curious Case of Benjamin Button,335802786,David Fincher
+152,658,Cast Away,429632142,Robert Zemeckis
+153,659,Captain America: Civil War,1155046416,"Anthony Russo, Joe Russo"
+154,660,The Bourne Identity,214034224,Doug Liman
+155,661,Paddington 2,227309407,Paul King
+156,663,The Fugitive,368875760,Andrew Davis
+157,666,The Last Samurai,454627263,Edward Zwick
+158,668,Big Hero 6,657870525,"Don Hall, Chris Williams"
+159,670,Back to the Future Part II,332500002,Robert Zemeckis
+160,677,How to Train Your Dragon 2,621537519,Dean DeBlois
+161,682,Captain Phillips,218791811,Paul Greengrass
+162,684,Straight Outta Compton,201634991,F. Gary Gray
+163,687,Walk the Line,186797986,James Mangold
+164,775,Home Alone,476684675,Chris Columbus
+165,776,Harry Potter and the Sorcerer's Stone,1024583854,Chris Columbus
+166,778,Harry Potter and the Goblet of Fire,897468952,Mike Newell
+167,780,Kingsman: The Secret Service,414351546,Matthew Vaughn
+168,782,Mission: Impossible - Dead Reckoning Part One,570619838,Christopher McQuarrie
+169,784,The Hangover,469328922,Todd Phillips
+170,785,Harry Potter and the Deathly Hallows: Part 1,960897696,David Yates
+171,795,Tangled,591806017,"Nathan Greno, Byron Howard"
+172,796,Ocean's Eleven,450717150,Steven Soderbergh
+173,799,Taken,226837760,Pierre Morel
+174,801,X-Men: First Class,352616690,Matthew Vaughn
+175,803,A Few Good Men,243240178,Rob Reiner
+176,808,Mission: Impossible - Fallout,791658205,Christopher McQuarrie
+177,813,Silver Linings Playbook,236412453,David O. Russell
+178,817,Who Framed Roger Rabbit,329803958,Robert Zemeckis
+179,823,Captain America: The Winter Soldier,714421503,"Anthony Russo, Joe Russo"
+180,829,Halloween,259939869,David Gordon Green
+181,830,Gravity,773031617,Alfonso Cuarón
+182,831,Argo,232325503,Ben Affleck
+183,835,Apollo 13,355237933,Ron Howard
+184,837,As Good as It Gets,314178011,James L. Brooks
+185,841,The Fault in Our Stars,307168169,Josh Boone
+186,842,Mulan,304320254,"Tony Bancroft, Barry Cook"
+187,848,Wreck-It Ralph,471222950,Rich Moore
+188,849,Philadelphia,206678440,Jonathan Demme
+189,851,The Bourne Supremacy,290835269,Paul Greengrass
+190,853,The Lego Movie,470759687,"Phil Lord, Christopher Miller"
+191,857,Star Trek Into Darkness,467365246,J.J. Abrams
+192,896,The Day the Earth Stood Still,233093859,Scott Derrickson
+193,947,Deadpool & Wolverine,1332494933,Shawn Levy
+194,948,Once Upon a Time... in Hollywood,392105159,Quentin Tarantino
+195,950,John Wick: Chapter 4,440180275,Chad Stahelski
+196,951,Watchmen,185382813,Zack Snyder
+197,954,Deadpool 2,785896632,David Leitch
+198,955,300,456082343,Zack Snyder
+199,956,The Fifth Element,263920180,Luc Besson
+200,959,True Grit,252278285,"Ethan Coen, Joel Coen"
+201,963,Star Wars: Episode III - Revenge of the Sith,850035635,George Lucas
+202,965,RoboCop,242688965,José Padilha
+203,966,Minority Report,358372926,Steven Spielberg
+204,968,Kung Fu Panda,632091832,"Mark Osborne, John Stevenson"
+205,975,The Others,210002906,Alejandro Amenábar
+206,977,Toy Story 4,1073841394,Josh Cooley
+207,987,Ponyo,205916673,Hayao Miyazaki

@@ -1,0 +1,1001 @@
+rank,movie_name,release_year,audience_rating,gross_earnings,director(s)
+1,Avatar,2009,PG-13,2923706026,James Cameron
+2,Avengers: Endgame,2019,PG-13,2799439100,"Anthony Russo, Joe Russo"
+3,Avatar: The Way of Water,2022,PG-13,2320250281,James Cameron
+4,Titanic,1997,PG-13,2264750694,James Cameron
+5,Star Wars: Episode VII - The Force Awakens,2015,PG-13,2071310218,J.J. Abrams
+6,Avengers: Infinity War,2018,PG-13,2052415039,"Anthony Russo, Joe Russo"
+7,Spider-Man: No Way Home,2021,PG-13,1921373347,Jon Watts
+8,Inside Out 2,2024,PG,1693216995,Kelsey Mann
+9,Jurassic World,2015,PG-13,1671537444,Colin Trevorrow
+10,The Lion King,2019,PG,1662020819,Jon Favreau
+11,The Avengers,2012,PG-13,1520538536,Joss Whedon
+12,Furious 7,2015,PG-13,1515342457,James Wan
+13,Top Gun: Maverick,2022,PG-13,1495696292,Joseph Kosinski
+14,Frozen II,2019,PG,1453683476,"Chris Buck, Jennifer Lee"
+15,Barbie,2023,PG-13,1446938421,Greta Gerwig
+16,Avengers: Age of Ultron,2015,PG-13,1405018048,Joss Whedon
+17,The Super Mario Bros. Movie,2023,PG,1362566989,"Aaron Horvath, Michael Jelenic, Pierre Leduc"
+18,Black Panther,2018,PG-13,1349926083,Ryan Coogler
+19,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,1342480797,David Yates
+20,Star Wars: Episode VIII - The Last Jedi,2017,PG-13,1334407706,Rian Johnson
+21,Deadpool & Wolverine,2024,R,1332494933,Shawn Levy
+22,Jurassic World: Fallen Kingdom,2018,PG-13,1310469037,J.A. Bayona
+23,Frozen,2013,PG,1306450154,"Chris Buck, Jennifer Lee"
+24,Beauty and the Beast,2017,PG,1266115964,Bill Condon
+25,Incredibles 2,2018,PG,1243225667,Brad Bird
+26,The Fate of the Furious,2017,PG-13,1236009236,F. Gary Gray
+27,Iron Man 3,2013,PG-13,1215577205,Shane Black
+28,Minions,2015,PG,1159457503,"Kyle Balda, Pierre Coffin"
+29,Captain America: Civil War,2016,PG-13,1155046416,"Anthony Russo, Joe Russo"
+30,Aquaman,2018,PG-13,1152028393,James Wan
+31,The Lord of the Rings: The Return of the King,2003,PG-13,1138027091,Peter Jackson
+32,Spider-Man: Far from Home,2019,PG-13,1132705055,Jon Watts
+33,Captain Marvel,2019,PG-13,1131416446,"Anna Boden, Ryan Fleck"
+34,Transformers: Dark of the Moon,2011,PG-13,1123794079,Michael Bay
+35,The Dark Knight Rises,2012,PG-13,1114975066,Christopher Nolan
+36,Skyfall,2012,PG-13,1108594137,Sam Mendes
+37,Transformers: Age of Extinction,2014,PG-13,1105261713,Michael Bay
+38,Jurassic Park,1993,PG-13,1104379926,Steven Spielberg
+39,Joker,2019,R,1078958629,Todd Phillips
+40,Star Wars: Episode IX - The Rise of Skywalker,2019,PG-13,1077022372,J.J. Abrams
+41,Toy Story 4,2019,G,1073841394,Josh Cooley
+42,Toy Story 3,2010,G,1067316101,Lee Unkrich
+43,Pirates of the Caribbean: Dead Man's Chest,2006,PG-13,1066179747,Gore Verbinski
+44,Rogue One: A Star Wars Story,2016,PG-13,1058684742,Gareth Edwards
+45,Aladdin,2019,PG,1054304000,Guy Ritchie
+46,Pirates of the Caribbean: On Stranger Tides,2011,PG-13,1046721266,Rob Marshall
+47,Star Wars: Episode I - The Phantom Menace,1999,PG,1046515409,George Lucas
+48,Despicable Me 3,2017,PG,1034800131,"Kyle Balda, Pierre Coffin, Eric Guillon"
+49,Finding Dory,2016,PG,1029266989,"Andrew Stanton, Angus MacLane"
+50,Zootopia,2016,PG,1025521689,"Byron Howard, Rich Moore, Jared Bush"
+51,Alice in Wonderland,2010,PG,1025468216,Tim Burton
+52,Harry Potter and the Sorcerer's Stone,2001,PG,1024583854,Chris Columbus
+53,The Hobbit: An Unexpected Journey,2012,PG-13,1017107150,Peter Jackson
+54,The Dark Knight,2008,PG-13,1009025676,Christopher Nolan
+55,Jurassic World Dominion,2022,PG-13,1001978080,Colin Trevorrow
+56,The Lion King,1994,G,981708285,"Roger Allers, Rob Minkoff"
+57,Oppenheimer,2023,R,975584123,Christopher Nolan
+58,Despicable Me 2,2013,PG,970766005,"Pierre Coffin, Chris Renaud"
+59,The Jungle Book,2016,PG,967724775,Jon Favreau
+60,Jumanji: Welcome to the Jungle,2017,PG-13,962544585,Jake Kasdan
+61,The Hobbit: The Battle of the Five Armies,2014,R,962253946,Peter Jackson
+62,Pirates of the Caribbean: At World's End,2007,PG-13,961691209,Gore Verbinski
+63,Harry Potter and the Deathly Hallows: Part 1,2010,PG-13,960897696,David Yates
+64,The Hobbit: The Desolation of Smaug,2013,PG-13,959079095,Peter Jackson
+65,Despicable Me 4,2024,PG,958295529,"Chris Renaud, Patrick Delage"
+66,Doctor Strange in the Multiverse of Madness,2022,PG-13,955775804,Sam Raimi
+67,Harry Potter and the Order of the Phoenix,2007,PG-13,942860217,David Yates
+68,Finding Nemo,2003,G,941637960,"Andrew Stanton, Lee Unkrich"
+69,Harry Potter and the Half-Blood Prince,2009,PG,941055851,David Yates
+70,Minions: The Rise of Gru,2022,PG,940203765,"Kyle Balda, Brad Ableson, Jonathan del Val"
+71,The Lord of the Rings: The Two Towers,2002,PG-13,938210343,Peter Jackson
+72,Shrek 2,2004,PG,932397526,"Andrew Adamson, Kelly Asbury, Conrad Vernon"
+73,Bohemian Rhapsody,2018,PG-13,910813521,Bryan Singer
+74,The Battle at Lake Changjin,2021,Not Rated,902548476,"Kaige Chen, Dante Lam, Hark Tsui"
+75,Harry Potter and the Goblet of Fire,2005,PG-13,897468952,Mike Newell
+76,Spider-Man 3,2007,PG-13,891648685,Sam Raimi
+77,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,888120042,Peter Jackson
+78,Ice Age: Dawn of the Dinosaurs,2009,PG,886686817,"Carlos Saldanha, Michael Thurmeier"
+79,Harry Potter and the Chamber of Secrets,2002,PG,882545819,Chris Columbus
+80,Spider-Man: Homecoming,2017,PG-13,880944210,Jon Watts
+81,Spectre,2015,PG-13,880707597,Sam Mendes
+82,Ice Age: Continental Drift,2012,PG,877244782,"Steve Martino, Michael Thurmeier"
+83,The Secret Life of Pets,2016,PG,875698161,Chris Renaud
+84,Batman v Superman: Dawn of Justice,2016,R,874362803,Zack Snyder
+85,Wolf Warrior 2,2017,Not Rated,870325439,Jing Wu
+86,The Hunger Games: Catching Fire,2013,PG-13,865011746,Francis Lawrence
+87,Guardians of the Galaxy Vol. 2,2017,PG-13,863756903,James Gunn
+88,Black Panther: Wakanda Forever,2022,PG-13,859208836,Ryan Coogler
+89,Inside Out,2015,PG,859076254,"Pete Docter, Ronnie Del Carmen"
+90,Venom,2018,PG-13,856085161,Ruben Fleischer
+91,Thor: Ragnarok,2017,PG-13,855301806,Taika Waititi
+92,Star Wars: Episode III - Revenge of the Sith,2005,PG-13,850035635,George Lucas
+93,The Twilight Saga: Breaking Dawn - Part 2,2012,PG-13,848593948,Bill Condon
+94,Guardians of the Galaxy Vol. 3,2023,PG-13,845555777,James Gunn
+95,Inception,2010,PG-13,839030630,Christopher Nolan
+96,Transformers: Revenge of the Fallen,2009,PG-13,836303693,Michael Bay
+97,Spider-Man,2002,PG-13,825802095,Sam Raimi
+98,Wonder Woman,2017,PG-13,823970682,Patty Jenkins
+99,"Hi, Mom",2021,Not Rated,822009764,Ling Jia
+100,Independence Day,1996,PG-13,817400891,Roland Emmerich
+101,Fantastic Beasts and Where to Find Them,2016,PG-13,816037575,David Yates
+102,Coco,2017,PG,814641172,"Lee Unkrich, Adrian Molina"
+103,Shrek the Third,2007,PG,813367380,"Chris Miller, Raman Hui"
+104,Harry Potter and the Prisoner of Azkaban,2004,PG,808485294,Alfonso Cuarón
+105,Jumanji: The Next Level,2019,PG-13,801693929,Jake Kasdan
+106,E.T. the Extra-Terrestrial,1982,PG,797307407,Steven Spielberg
+107,Pirates of the Caribbean: Dead Men Tell No Tales,2017,PG-13,795922298,"Joachim Rønning, Espen Sandberg"
+108,Mission: Impossible - Fallout,2018,PG-13,791658205,Christopher McQuarrie
+109,2012,2009,PG-13,791217826,Roland Emmerich
+110,Fast & Furious 6,2013,PG-13,788683342,Justin Lin
+111,Indiana Jones and the Kingdom of the Crystal Skull,2008,PG-13,786636033,Steven Spielberg
+112,Deadpool 2,2018,R,785896632,David Leitch
+113,Spider-Man 2,2004,PG-13,784543400,Sam Raimi
+114,Deadpool,2016,R,782837347,Tim Miller
+115,Star Wars: Episode IV - A New Hope,1977,PG,775398507,George Lucas
+116,No Time to Die,2021,PG-13,774153007,Cary Joji Fukunaga
+117,Guardians of the Galaxy,2014,PG-13,773350376,James Gunn
+118,Gravity,2013,PG-13,773031617,Alfonso Cuarón
+119,The Batman,2022,PG-13,772272279,Matt Reeves
+120,Thor: Love and Thunder,2022,PG-13,760928081,Taika Waititi
+121,Fast & Furious Presents: Hobbs & Shaw,2019,PG-13,760732926,David Leitch
+122,The Da Vinci Code,2006,PG-13,760006945,Ron Howard
+123,Maleficent,2014,PG,759853685,Robert Stromberg
+124,The Hunger Games: Mockingjay - Part 1,2014,PG-13,759159711,Francis Lawrence
+125,The Amazing Spider-Man,2012,PG-13,758707722,Marc Webb
+126,Shrek Forever After,2010,PG,752600867,Mike Mitchell
+127,Suicide Squad,2016,PG-13,749200054,David Ayer
+128,Madagascar 3: Europe's Most Wanted,2012,PG,746921274,"Eric Darnell, Tom McGrath, Conrad Vernon"
+129,X-Men: Days of Future Past,2014,PG-13,746045700,Bryan Singer
+130,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,PG,745013115,Andrew Adamson
+131,Monsters University,2013,G,743559645,Dan Scanlon
+132,The Matrix Reloaded,2003,R,741847937,"Lana Wachowski, Lilly Wachowski"
+133,Up,2009,PG,735102136,"Pete Docter, Bob Peterson"
+134,Ne Zha,2019,Not Rated,726264074,Yu Yang
+135,F9: The Fast Saga,2021,PG-13,726229501,Justin Lin
+136,Interstellar,2014,PG-13,725684091,Christopher Nolan
+137,The Amazing Spider-Man 2,2014,PG-13,716891708,Marc Webb
+138,Dune: Part Two,2024,PG-13,714444358,Denis Villeneuve
+139,Captain America: The Winter Soldier,2014,PG-13,714421503,"Anthony Russo, Joe Russo"
+140,The Twilight Saga: Breaking Dawn - Part 1,2011,PG-13,712205856,Bill Condon
+141,The Twilight Saga: New Moon,2009,PG-13,711048123,Chris Weitz
+142,Dawn of the Planet of the Apes,2014,PG-13,710644566,Matt Reeves
+143,Transformers,2007,PG-13,709709780,Michael Bay
+144,Fast X,2023,PG-13,704875015,Louis Leterrier
+145,It,2017,R,704242888,Andy Muschietti
+146,The Wandering Earth,2019,TV-MA,699992512,Frant Gwo
+147,The Twilight Saga: Eclipse,2010,PG-13,698513085,David Slade
+148,The Hunger Games,2012,PG-13,695220619,Gary Ross
+149,Mission: Impossible - Ghost Protocol,2011,PG-13,694713380,Brad Bird
+150,Spider-Man: Across the Spider-Verse,2023,PG,690824738,"Joaquim Dos Santos, Kemp Powers, Justin K. Thompson"
+151,Detective Chinatown 3,2021,R,686257563,Sicheng Chen
+152,Mission: Impossible - Rogue Nation,2015,PG-13,682716636,Christopher McQuarrie
+153,Forrest Gump,1994,PG-13,678226465,Robert Zemeckis
+154,Doctor Strange,2016,PG-13,677796833,Scott Derrickson
+155,The Sixth Sense,1999,PG-13,672806432,M. Night Shyamalan
+156,Man of Steel,2013,PG-13,670145518,Zack Snyder
+157,Ice Age: The Meltdown,2006,PG,667094506,Carlos Saldanha
+158,Kung Fu Panda 2,2011,PG,665692281,Jennifer Yuh Nelson
+159,The Hunger Games: Mockingjay - Part 2,2015,PG-13,661456867,Francis Lawrence
+160,Justice League,2017,PG-13,661326987,Zack Snyder
+161,Big Hero 6,2014,PG,657870525,"Don Hall, Chris Williams"
+162,Fantastic Beasts: The Crimes of Grindelwald,2018,PG-13,655755901,David Yates
+163,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,654264546,Gore Verbinski
+164,Men in Black³,2012,PG-13,654213485,Barry Sonnenfeld
+165,Star Wars: Episode II - Attack of the Clones,2002,PG,653780724,George Lucas
+166,Thor: The Dark World,2013,PG-13,644783140,Alan Taylor
+167,Moana,2016,PG,643332467,"Ron Clements, John Musker, Don Hall"
+168,Wonka,2023,PG,634402312,Paul King
+169,Sing,2016,PG,634338409,"Garth Jennings, Christophe Lourdelet"
+170,Kung Fu Panda,2008,PG,632091832,"Mark Osborne, John Stevenson"
+171,The Incredibles,2004,PG,631688498,Brad Bird
+172,The Martian,2015,PG-13,630621406,Ridley Scott
+173,Hancock,2008,R,629443428,Peter Berg
+174,Water Gate Bridge,2022,Not Rated,626571697,"Hark Tsui, Kaige Chen, Dante Lam"
+175,Fast Five,2011,PG-13,626140012,Justin Lin
+176,Iron Man 2,2010,PG-13,623933331,Jon Favreau
+177,Ratatouille,2007,G,623728318,"Brad Bird, Jan Pinkava"
+178,Ant-Man and the Wasp,2018,PG-13,622674139,Peyton Reed
+179,How to Train Your Dragon 2,2014,PG,621537519,Dean DeBlois
+180,Logan,2017,R,619180476,James Mangold
+181,The Lost World: Jurassic Park,1997,PG-13,618638999,Steven Spielberg
+182,Casino Royale,2006,PG-13,616577552,Martin Campbell
+183,The Passion of the Christ,2004,R,612060372,Mel Gibson
+184,Mamma Mia!,2008,PG-13,611452132,Phyllida Lloyd
+185,Life of Pi,2012,PG,609016565,Ang Lee
+186,Ready Player One,2018,PG-13,607874422,Steven Spielberg
+187,Transformers: The Last Knight,2017,PG-13,605425157,Michael Bay
+188,Madagascar: Escape 2 Africa,2008,PG,603900354,"Eric Darnell, Tom McGrath"
+189,War of the Worlds,2005,PG-13,603873504,Steven Spielberg
+190,Tangled,2010,PG,591806017,"Nathan Greno, Byron Howard"
+191,Quantum of Solace,2008,PG-13,589593688,Marc Forster
+192,Men in Black,1997,PG-13,589390539,Barry Sonnenfeld
+193,The Croods,2013,PG,587266745,"Kirk DeMicco, Chris Sanders"
+194,The Hangover Part II,2011,R,586764305,Todd Phillips
+195,Iron Man,2008,PG-13,585796247,Jon Favreau
+196,I Am Legend,2007,PG-13,585410052,Francis Lawrence
+197,"Monsters, Inc.",2001,G,579723931,"Pete Docter, David Silverman, Lee Unkrich"
+198,Operation Red Sea,2018,TV-MA,579330426,Dante Lam
+199,Night at the Museum,2006,PG,574482479,Shawn Levy
+200,Godzilla x Kong: The New Empire,2024,PG-13,571750016,Adam Wingard
+201,Mission: Impossible - Dead Reckoning Part One,2023,PG-13,570619838,Christopher McQuarrie
+202,Fifty Shades of Grey,2015,R,569651467,Sam Taylor-Johnson
+203,The Little Mermaid,2023,PG,569626289,Rob Marshall
+204,Kong: Skull Island,2017,PG-13,568652812,Jordan Vogt-Roberts
+205,The Smurfs,2011,PG,563892376,Raja Gosnell
+206,Cars 2,2011,G,559853036,"John Lasseter, Bradford Lewis"
+207,King Kong,2005,PG-13,556906378,Peter Jackson
+208,Puss in Boots,2011,PG,554987477,Chris Miller
+209,The Mermaid,2016,R,553810228,Stephen Chow
+210,Armageddon,1998,PG-13,553712773,Michael Bay
+211,The Day After Tomorrow,2004,PG-13,552639571,Roland Emmerich
+212,Star Wars: Episode V - The Empire Strikes Back,1980,PG,550016086,Irvin Kershner
+213,Ted,2012,R,549368315,Seth MacFarlane
+214,Kung Fu Panda 4,2024,PG,549205628,"Mike Mitchell, Stephanie Stine"
+215,American Sniper,2014,R,547659020,Clint Eastwood
+216,Mission: Impossible II,2000,PG-13,546388108,John Woo
+217,Detective Chinatown 2,2018,R,544185156,Sicheng Chen
+218,Despicable Me,2010,PG,544174973,"Pierre Coffin, Chris Renaud"
+219,X-Men: Apocalypse,2016,PG-13,543934105,Bryan Singer
+220,Sherlock Holmes: A Game of Shadows,2011,PG-13,543848418,Guy Ritchie
+221,Cinderella,2015,PG,542358331,Kenneth Branagh
+222,Madagascar,2005,PG,542064525,"Eric Darnell, Tom McGrath"
+223,Hotel Transylvania 3: Summer Vacation,2018,PG,541504608,Genndy Tartakovsky
+224,World War Z,2013,PG-13,540455876,Marc Forster
+225,The Grinch,2018,PG,540029016,"Yarrow Cheney, Scott Mosier"
+226,How to Train Your Dragon: The Hidden World,2019,PG,539987993,Dean DeBlois
+227,Brave,2012,PG,538983207,"Mark Andrews, Brenda Chapman, Steve Purcell"
+228,The Simpsons Movie,2007,PG-13,536414293,David Silverman
+229,The Revenant,2015,R,532950503,Alejandro G. Iñárritu
+230,Dunkirk,2017,PG-13,530432122,Christopher Nolan
+231,The Meg,2018,PG-13,529338515,Jon Turteltaub
+232,Ralph Breaks the Internet,2018,PG,529323962,"Phil Johnston, Rich Moore"
+233,The Boss Baby,2017,PG,527965936,Tom McGrath
+234,WALL·E,2008,G,527403656,Andrew Stanton
+235,Godzilla,2014,PG-13,524978362,Gareth Edwards
+236,Sherlock Holmes,2009,PG-13,524028679,Guy Ritchie
+237,Meet the Fockers,2004,PG-13,522657936,Jay Roach
+238,Kung Fu Panda 3,2016,PG,521170825,"Alessandro Carloni, Jennifer Yuh Nelson"
+239,Terminator 2: Judgment Day,1991,R,520881154,James Cameron
+240,Ant-Man,2015,PG-13,519311965,Peyton Reed
+241,La La Land,2016,PG-13,509183536,Damien Chazelle
+242,Venom: Let There Be Carnage,2021,PG-13,506863592,Andy Serkis
+243,Ghost,1990,PG-13,505703557,Jerry Zucker
+244,Aladdin,1992,G,504050219,"Ron Clements, John Musker"
+245,Rio 2,2014,G,498781117,Carlos Saldanha
+246,Troy,2004,R,497409852,Wolfgang Petersen
+247,Toy Story 2,1999,G,497375381,"John Lasseter, Ash Brannon, Lee Unkrich"
+248,Elemental,2023,PG,496444308,Peter Sohn
+249,How to Train Your Dragon,2010,PG,494879860,"Dean DeBlois, Chris Sanders"
+250,Twister,1996,PG-13,494580615,Jan de Bont
+251,Oz the Great and Powerful,2013,PG,493311825,Sam Raimi
+252,Clash of the Titans,2010,PG-13,493214993,Louis Leterrier
+253,Maleficent: Mistress of Evil,2019,PG,491730089,Joachim Rønning
+254,War for the Planet of the Apes,2017,PG-13,490719763,Matt Reeves
+255,Shrek,2001,PG,488628188,"Andrew Adamson, Vicky Jenson"
+256,Mr. & Mrs. Smith,2005,PG-13,487287646,Doug Liman
+257,Angels & Demons,2009,PG-13,485930816,Ron Howard
+258,Teenage Mutant Ninja Turtles,2014,PG-13,485004754,Jonathan Liebesman
+259,Bruce Almighty,2003,PG-13,484592874,Tom Shadyac
+260,Rio,2011,G,483866772,Carlos Saldanha
+261,Star Wars: Episode VI - Return of the Jedi,1983,PG,482466382,Richard Marquand
+262,Saving Private Ryan,1998,R,482351251,Steven Spielberg
+263,Rise of the Planet of the Apes,2011,PG-13,481800873,Rupert Wyatt
+264,Puss in Boots: The Last Wish,2022,PG,481757663,"Joel Crawford, Januel Mercado"
+265,Jaws,1975,PG,477220580,Steven Spielberg
+266,Home Alone,1990,PG,476684675,Chris Columbus
+267,Ant-Man and the Wasp: Quantumania,2023,PG-13,476071180,Peyton Reed
+268,Hotel Transylvania 2,2015,PG,475186976,Genndy Tartakovsky
+269,Charlie and the Chocolate Factory,2005,PG,474968763,Tim Burton
+270,San Andreas,2015,PG-13,474609154,Brad Peyton
+271,Indiana Jones and the Last Crusade,1989,PG-13,474171806,Steven Spielberg
+272,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,TV-MA,473230408,Haruo Sotozaki
+273,It Chapter Two,2019,R,473123154,Andy Muschietti
+274,The King's Speech,2010,R,472088310,Tom Hooper
+275,Wreck-It Ralph,2012,PG,471222950,Rich Moore
+276,The Lego Movie,2014,PG,470759687,"Phil Lord, Christopher Miller"
+277,Godzilla vs. Kong,2021,PG-13,470116094,Adam Wingard
+278,The Hangover,2009,R,469328922,Todd Phillips
+279,Lucy,2014,R,469058574,Luc Besson
+280,Bumblebee,2018,PG-13,467989645,Travis Knight
+281,The Matrix,1999,R,467840449,"Lana Wachowski, Lilly Wachowski"
+282,Star Trek Into Darkness,2013,PG-13,467365246,J.J. Abrams
+283,Gladiator,2000,R,465390350,Ridley Scott
+284,Pretty Woman,1990,R,463406268,Garry Marshall
+285,Cars,2006,G,461996328,"John Lasseter, Joe Ranft"
+286,The Eight Hundred,2020,Not Rated,461421559,Guan Hu
+287,X-Men: The Last Stand,2006,PG-13,460435291,Brett Ratner
+288,Moon Man,2022,Not Rated,460237662,Chiyu Zhang
+289,National Treasure: Book of Secrets,2007,PG,459242249,Jon Turteltaub
+290,The Greatest Showman,2017,PG,459066134,Michael Gracey
+291,Mission: Impossible,1996,PG-13,457696391,Brian De Palma
+292,300,2006,R,456082343,Zack Snyder
+293,The Last Samurai,2003,R,454627263,Edward Zwick
+294,Dying to Survive,2018,Not Rated,451183391,Muye Wen
+295,Ocean's Eleven,2001,PG-13,450717150,Steven Soderbergh
+296,"My People, My Country",2019,Not Rated,450064993,"Kaige Chen, Guan Hu, Hao Ning"
+297,Pokémon: Detective Pikachu,2019,PG,450063166,Rob Letterman
+298,Thor,2011,PG-13,449326618,Kenneth Branagh
+299,Pearl Harbor,2001,PG-13,449220945,Michael Bay
+300,Tarzan,1999,G,448191819,"Chris Buck, Kevin Lima"
+301,Men in Black II,2002,PG-13,445135288,Barry Sonnenfeld
+302,The Bourne Ultimatum,2007,PG-13,444100035,Paul Greengrass
+303,The Mummy Returns,2001,PG-13,443284916,Stephen Sommers
+304,Alvin and the Chipmunks: The Squeakquel,2009,PG,443140005,Betty Thomas
+305,Les Misérables,2012,PG-13,442757529,Tom Hooper
+306,Transformers: Rise of the Beasts,2023,PG-13,441381193,Steven Caple Jr.
+307,Mrs. Doubtfire,1993,PG-13,441286195,Chris Columbus
+308,Terminator Genisys,2015,PG-13,440603537,Alan Taylor
+309,John Wick: Chapter 4,2023,R,440180275,Chad Stahelski
+310,Aquaman and the Lost Kingdom,2023,PG-13,439381226,James Wan
+311,Warcraft,2016,PG-13,439048914,Duncan Jones
+312,A Star Is Born,2018,R,436433122,Bradley Cooper
+313,Terminator 3: Rise of the Machines,2003,R,433371112,Jonathan Mostow
+314,Shang-Chi and the Legend of the Ten Rings,2021,PG-13,432243292,Destin Daniel Cretton
+315,Die Another Day,2002,PG-13,431971781,Lee Tamahori
+316,The Secret Life of Pets 2,2019,PG,431164459,"Chris Renaud, Jonathan del Val"
+317,The Exorcist,1973,R,430872776,William Friedkin
+318,Cast Away,2000,PG-13,429632142,Robert Zemeckis
+319,Rampage,2018,PG-13,428128399,Brad Peyton
+320,The Matrix Revolutions,2003,R,427344325,"Lana Wachowski, Lilly Wachowski"
+321,The Intouchables,2011,R,426590315,"Olivier Nakache, Éric Toledano"
+322,Bad Boys for Life,2020,R,426505244,"Adil El Arbi, Bilall Fallah"
+323,Django Unchained,2012,R,426076293,Quentin Tarantino
+324,Beauty and the Beast,1991,G,424967620,"Gary Trousdale, Kirk Wise"
+325,Dances with Wolves,1990,PG-13,424208848,Kevin Costner
+326,"My People, My Homeland",2020,Not Rated,422390820,"Hao Ning, Sicheng Chen, Chao Deng"
+327,The Chronicles of Narnia: Prince Caspian,2008,PG,419665568,Andrew Adamson
+328,Sex and the City,2008,R,418769972,Michael Patrick King
+329,The Mummy,1999,PG-13,417643286,Stephen Sommers
+330,The Captain,2019,Not Rated,417282021,Wai Keung Lau
+331,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,PG,415686217,Michael Apted
+332,Jason Bourne,2016,PG-13,415484914,Paul Greengrass
+333,The Wolverine,2013,PG-13,414828246,James Mangold
+334,Kingsman: The Secret Service,2014,R,414351546,Matthew Vaughn
+335,Night at the Museum: Battle of the Smithsonian,2009,PG,413106170,Shawn Levy
+336,Batman,1989,PG-13,411569241,Tim Burton
+337,The Bodyguard,1992,R,411046449,Mick Jackson
+338,Pacific Rim,2013,PG-13,411002906,Guillermo del Toro
+339,Kingsman: The Golden Circle,2017,R,410902662,Matthew Vaughn
+340,Tron: Legacy,2010,PG,409912892,Joseph Kosinski
+341,The Mummy,2017,PG-13,409231607,Alex Kurtzman
+342,Ice Age: Collision Course,2016,PG,408754975,"Michael Thurmeier, Galen T. Chu"
+343,Twilight,2008,PG-13,408496327,Catherine Hardwicke
+344,Sing 2,2021,PG,408402685,"Garth Jennings, Christophe Lourdelet"
+345,Signs,2002,PG-13,408247917,M. Night Shyamalan
+346,Beetlejuice Beetlejuice,2024,PG-13,408017135,Tim Burton
+347,X2: X-Men United,2003,PG-13,407711549,Bryan Singer
+348,Dune: Part One,2021,PG-13,407673628,Denis Villeneuve
+349,Fantastic Beasts: The Secrets of Dumbledore,2022,PG-13,407150844,David Yates
+350,Uncharted,2022,PG-13,407141258,Ruben Fleischer
+351,The Wolf of Wall Street,2013,R,407039432,Martin Scorsese
+352,Sonic the Hedgehog 2,2022,PG,405421518,Jeff Fowler
+353,Alita: Battle Angel,2019,PG-13,404980543,Robert Rodriguez
+354,Bad Boys: Ride or Die,2024,R,404290821,"Adil El Arbi, Bilall Fallah"
+355,The Mummy: Tomb of the Dragon Emperor,2008,PG-13,403449830,Rob Cohen
+356,Prometheus,2012,R,403354469,Ridley Scott
+357,Gone with the Wind,1939,G,402382193,"Victor Fleming, George Cukor, Sam Wood"
+358,Eternals,2021,PG-13,402064899,Chloé Zhao
+359,Mission: Impossible III,2006,PG-13,398479497,J.J. Abrams
+360,Meg 2: The Trench,2023,PG-13,397800317,Ben Wheatley
+361,Kingdom of the Planet of the Apes,2024,PG-13,397378150,Wes Ball
+362,Snow White and the Huntsman,2012,PG-13,396592829,Rupert Sanders
+363,Grease,1978,PG,396271103,Randal Kleiser
+364,Mamma Mia! Here We Go Again,2018,PG-13,395607854,Ol Parker
+365,Toy Story,1995,G,394436586,John Lasseter
+366,Spider-Man: Into the Spider-Verse,2018,PG,393602435,"Bob Persichetti, Peter Ramsey, Rodney Rothman"
+367,Black Adam,2022,PG-13,393452111,Jaume Collet-Serra
+368,Solo: A Star Wars Story,2018,PG-13,392924807,Ron Howard
+369,Once Upon a Time... in Hollywood,2019,R,392105159,Quentin Tarantino
+370,Superman Returns,2006,PG-13,391081192,Bryan Singer
+371,Robin Hood: Prince of Thieves,1991,PG-13,390493908,Kevin Reynolds
+372,1917,2019,R,390411425,Sam Mendes
+373,Raiders of the Lost Ark,1981,PG,389925971,Steven Spielberg
+374,Independence Day: Resurgence,2016,PG-13,389681935,Roland Emmerich
+375,Live Free or Die Hard,2007,PG-13,388156011,Len Wiseman
+376,Godzilla: King of the Monsters,2019,PG-13,387300138,Michael Dougherty
+377,Monster Hunt,2015,TV-Y7,387053506,Raman Hui
+378,Home,2015,PG,386041607,Tim Johnson
+379,Star Trek,2009,PG-13,385681768,J.J. Abrams
+380,Back to the Future,1985,PG,384577472,Robert Zemeckis
+381,Happy Feet,2006,PG,384336108,"George Miller, Warren Coleman, Judy Morris"
+382,Indiana Jones and the Dial of Destiny,2023,PG-13,383963057,James Mangold
+383,Cars 3,2017,G,383930656,Brian Fee
+384,Ice Age,2002,PG,383257136,"Chris Wedge, Carlos Saldanha"
+385,Your Name.,2016,Not Rated,382241103,Makoto Shinkai
+386,Fifty Shades Darker,2017,R,381545846,James Foley
+387,Monsters vs. Aliens,2009,PG,381509870,"Rob Letterman, Conrad Vernon"
+388,Mad Max: Fury Road,2015,R,380437267,George Miller
+389,Black Widow,2021,PG-13,379751655,Cate Shortland
+390,Godzilla,1998,PG-13,379014294,Roland Emmerich
+391,True Lies,1994,R,378882411,James Cameron
+392,Slumdog Millionaire,2008,R,378411362,"Danny Boyle, Loveleen Tandan"
+393,Edge of Tomorrow,2014,PG-13,377044245,Doug Liman
+394,Taken 2,2012,PG-13,376152455,Olivier Megaton
+395,G.I. Joe: Retaliation,2013,PG-13,375740705,Jon M. Chu
+396,Batman Begins,2005,PG-13,375398269,Christopher Nolan
+397,Shark Tale,2004,PG,374583879,"Bibo Bergeron, Vicky Jenson, Rob Letterman"
+398,What Women Want,2000,PG-13,374111707,Nancy Meyers
+399,The Adventures of Tintin,2011,PG,373994233,Steven Spielberg
+400,Penguins of Madagascar,2014,PG,373515621,"Eric Darnell, Simon J. Smith"
+401,X-Men Origins: Wolverine,2009,PG-13,373062864,Gavin Hood
+402,The Golden Compass,2007,PG-13,372234864,Chris Weitz
+403,Fifty Shades Freed,2018,R,371985018,James Foley
+404,Hitch,2005,PG-13,371594210,Andy Tennant
+405,Terminator Salvation,2009,PG-13,371353001,McG
+406,Twisters,2024,PG-13,370962265,Lee Isaac Chung
+407,Gone Girl,2014,R,370890259,David Fincher
+408,Captain America: The First Avenger,2011,PG-13,370569774,Joe Johnston
+409,There's Something About Mary,1998,R,369884651,"Bobby Farrelly, Peter Farrelly"
+410,The Fugitive,1993,PG-13,368875760,Andrew Davis
+411,Jurassic Park III,2001,PG-13,368780809,Joe Johnston
+412,My Big Fat Greek Wedding,2002,PG,368744044,Joel Zwick
+413,Shazam!,2019,PG-13,367799011,David F. Sandberg
+414,Hello Mr. Billionaire,2018,Not Rated,366961907,"Da-Mo Peng, Fei Yan"
+415,Die Hard with a Vengeance,1995,R,366101666,John McTiernan
+416,The Nun,2018,R,366082797,Corin Hardy
+417,Alvin and the Chipmunks,2007,PG,365352546,Tim Hill
+418,Tenet,2020,PG-13,365304105,Christopher Nolan
+419,Notting Hill,1999,PG-13,363992308,Roger Michell
+420,A Bug's Life,1998,G,363258859,"John Lasseter, Andrew Stanton"
+421,Night at the Museum: Secret of the Tomb,2014,PG,363204635,Shawn Levy
+422,Ocean's Twelve,2004,PG-13,362744280,Steven Soderbergh
+423,Mary Poppins Returns,2018,PG,362529106,Rob Marshall
+424,Planet of the Apes,2001,PG-13,362211740,Tim Burton
+425,The Hangover Part III,2013,R,362000072,Todd Phillips
+426,The World Is Not Enough,1999,PG-13,361832400,Michael Apted
+427,Monster Hunt 2,2018,Not Rated,361682618,Raman Hui
+428,Fast & Furious,2009,PG-13,360405638,Justin Lin
+429,Noah,2014,PG-13,359200044,Darren Aronofsky
+430,The Karate Kid,2010,PG,359126022,Harald Zwart
+431,Home Alone 2: Lost in New York,1992,PG,358994850,Chris Columbus
+432,Hotel Transylvania,2012,PG,358375603,Genndy Tartakovsky
+433,Minority Report,2002,PG-13,358372926,Steven Spielberg
+434,Spirited Away,2001,PG,358129968,Hayao Miyazaki
+435,Top Gun,1986,PG,357288178,Tony Scott
+436,The Legend of Tarzan,2016,PG-13,357243061,David Yates
+437,American Beauty,1999,R,356296601,Sam Mendes
+438,Apollo 13,1995,PG,355237933,Ron Howard
+439,Rain Man,1988,R,354825435,Barry Levinson
+440,The Great Gatsby,2013,PG-13,353660028,Baz Luhrmann
+441,Dumbo,2019,PG,353284621,Tim Burton
+442,"I, Robot",2004,PG-13,353133898,Alex Proyas
+443,Basic Instinct,1992,R,352927224,Paul Verhoeven
+444,Murder on the Orient Express,2017,PG-13,352794081,Kenneth Branagh
+445,X-Men: First Class,2011,PG-13,352616690,Matthew Vaughn
+446,The Angry Birds Movie,2016,PG,352333929,"Clay Kaytis, Fergal Reilly"
+447,GoldenEye,1995,PG-13,352194034,Martin Campbell
+448,Catch Me If You Can,2002,PG-13,352114312,Steven Spielberg
+449,Now You See Me,2013,PG-13,351723989,Louis Leterrier
+450,Hannibal,2001,R,351692268,Ridley Scott
+451,The Mask,1994,PG-13,351583407,Chuck Russell
+452,Peter Rabbit,2018,PG,351516614,Will Gluck
+453,Speed,1994,R,350448145,Jan de Bont
+454,Dinosaur,2000,PG,349822765,"Eric Leighton, Ralph Zondag"
+455,Alien: Romulus,2024,R,349725014,Fede Alvarez
+456,Deep Impact,1998,PG-13,349464664,Mimi Leder
+457,The Lorax,2012,PG,349305397,"Chris Renaud, Kyle Balda"
+458,The Hunger Games: The Ballad of Songbirds & Snakes,2023,PG-13,348900019,Francis Lawrence
+459,The Maze Runner,2014,PG-13,348319861,Wes Ball
+460,The Smurfs 2,2013,PG,347545360,Raja Gosnell
+461,National Treasure,2004,PG,347512530,Jon Turteltaub
+462,Trolls,2016,PG,347337803,"Mike Mitchell, Walt Dohrn"
+463,Rush Hour 2,2001,PG-13,347325802,Brett Ratner
+464,How the Grinch Stole Christmas,2000,PG,346654179,Ron Howard
+465,xXx: Return of Xander Cage,2017,PG-13,346118277,D.J. Caruso
+466,Pocahontas,1995,G,346079773,"Mike Gabriel, Eric Goldberg"
+467,It Ends with Us,2024,PG-13,344698224,Justin Baldoni
+468,Star Trek Beyond,2016,PG-13,343471816,Justin Lin
+469,Alvin and the Chipmunks: Chipwrecked,2011,G,342695435,Mike Mitchell
+470,Wanted,2008,R,342463063,Timur Bekmambetov
+471,The Flintstones,1994,PG,341631208,Brian Levant
+472,A Quiet Place,2018,PG-13,340955294,John Krasinski
+473,Enchanted,2007,PG,340487869,Kevin Lima
+474,Over the Hedge,2006,PG,339795890,"Tim Johnson, Karey Kirkpatrick"
+475,300: Rise of an Empire,2014,R,337580051,Noam Murro
+476,Batman Forever,1995,PG-13,336567158,Joel Schumacher
+477,Prince of Persia: The Sands of Time,2010,PG-13,336365676,Mike Newell
+478,The Curious Case of Benjamin Button,2008,PG-13,335802786,David Fincher
+479,Journey 2: The Mysterious Island,2012,PG,335288576,Brad Peyton
+480,The Rock,1996,R,335062621,Michael Bay
+481,The Great Wall,2016,PG-13,334933831,Yimou Zhang
+482,Now You See Me 2,2016,PG-13,334897606,Jon M. Chu
+483,Never Say Die,2017,Not Rated,334530869,"Yang Song, Chiyu Zhang"
+484,Bridget Jones's Diary,2001,R,334273059,Sharon Maguire
+485,Fantastic Four,2005,PG-13,333535934,Tim Story
+486,Indiana Jones and the Temple of Doom,1984,PG,333107271,Steven Spielberg
+487,Tomorrow Never Dies,1997,PG-13,333011068,Roger Spottiswoode
+488,Back to the Future Part II,1989,PG,332500002,Robert Zemeckis
+489,The Good Dinosaur,2015,PG,332207671,Peter Sohn
+490,Free Guy,2021,PG-13,331526598,Shawn Levy
+491,22 Jump Street,2014,R,331333876,"Phil Lord, Christopher Miller"
+492,Meet the Parents,2000,PG-13,330444045,Jay Roach
+493,Who Framed Roger Rabbit,1988,PG,329803958,Robert Zemeckis
+494,Black Swan,2010,R,329398046,Darren Aronofsky
+495,The Perfect Storm,2000,PG-13,328718434,Wolfgang Petersen
+496,John Wick: Chapter 3 - Parabellum,2019,R,328349908,Chad Stahelski
+497,Crocodile Dundee,1986,PG-13,328203506,Peter Faiman
+498,Crazy Alien,2019,Not Rated,327598891,Hao Ning
+499,Se7en,1995,R,327333559,David Fincher
+500,The Devil Wears Prada,2006,PG-13,326715791,David Frankel
+501,Taken 3,2014,PG-13,326479141,Olivier Megaton
+502,The Hunchback of Notre Dame,1996,G,325338851,"Gary Trousdale, Kirk Wise"
+503,A Christmas Carol,2009,PG,325286646,Robert Zemeckis
+504,The SpongeBob Movie: Sponge Out of Water,2015,PG,325186032,"Paul Tibbitt, Mike Mitchell"
+505,Bridesmaids,2011,R,324840797,Paul Feig
+506,The Conjuring 2,2016,R,322811702,James Wan
+507,Schindler's List,1993,R,322161245,Steven Spielberg
+508,Megamind,2010,PG,321885765,Tom McGrath
+509,Green Book,2018,PG-13,321752656,Peter Farrelly
+510,Lethal Weapon 3,1992,R,321731527,Richard Donner
+511,Robin Hood,2010,PG-13,321669741,Ridley Scott
+512,Inglourious Basterds,2009,R,321460456,Quentin Tarantino
+513,101 Dalmatians,1996,G,320689294,Stephen Herek
+514,The Conjuring,2013,R,320415166,James Wan
+515,Fatal Attraction,1987,R,320145693,Adrian Lyne
+516,Sonic the Hedgehog,2020,PG,319715683,Jeff Fowler
+517,The Last Airbender,2010,PG,319713881,M. Night Shyamalan
+518,The Polar Express,2004,G,318321815,Robert Zemeckis
+519,The Proposal,2009,PG-13,317375435,Anne Fletcher
+520,A Beautiful Mind,2001,PG-13,316791257,Ron Howard
+521,Beverly Hills Cop,1984,R,316360478,Martin Brest
+522,Air Force One,1997,R,315156409,Wolfgang Petersen
+523,Wonder,2017,PG,315025930,Stephen Chbosky
+524,The Expendables 2,2012,R,314975955,Simon West
+525,Chicken Little,2005,G,314432837,Mark Dindal
+526,As Good as It Gets,1997,PG-13,314178011,James L. Brooks
+527,Austin Powers: The Spy Who Shagged Me,1999,PG-13,313701294,Jay Roach
+528,Knives Out,2019,PG-13,312897920,Rian Johnson
+529,The Lego Batman Movie,2017,PG,312336671,Chris McKay
+530,Maze Runner: The Scorch Trials,2015,PG-13,312296056,Wes Ball
+531,Resident Evil: The Final Chapter,2016,R,312242626,Paul W.S. Anderson
+532,Ocean's Thirteen,2007,PG-13,311312624,Steven Soderbergh
+533,Little Fockers,2010,PG-13,310650585,Paul Weitz
+534,Bolt,2008,PG,309979994,"Byron Howard, Chris Williams"
+535,Ransom,1996,R,309492681,Ron Howard
+536,Runaway Bride,1999,PG,309460292,Garry Marshall
+537,The Blind Side,2009,PG-13,309231694,John Lee Hancock
+538,The Ex-File 3: Return of the Exes,2017,PG-13,307592427,Yusheng Tian
+539,The Fault in Our Stars,2014,PG-13,307168169,Josh Boone
+540,The Pursuit of Happyness,2006,PG-13,307127625,Gabriele Muccino
+541,Rise of the Guardians,2012,PG,306941670,Peter Ramsey
+542,Close Encounters of the Third Kind,1977,PG,306889114,Steven Spielberg
+543,Chicago,2002,PG-13,306777366,Rob Marshall
+544,Annabelle: Creation,2017,R,306592201,David F. Sandberg
+545,Skyscraper,2018,PG-13,304870828,Rawson Marshall Thurber
+546,A Good Day to Die Hard,2013,R,304654182,John Moore
+547,Mulan,1998,G,304320254,"Tony Bancroft, Barry Cook"
+548,Dangal,2016,Not Rated,303723636,Nitesh Tiwari
+549,Passengers,2016,PG-13,303144152,Morten Tyldum
+550,Battleship,2012,PG-13,303025485,Peter Berg
+551,Liar Liar,1997,PG-13,302710615,Tom Shadyac
+552,G.I. Joe: The Rise of Cobra,2009,PG-13,302469017,Stephen Sommers
+553,Wrath of the Titans,2012,PG-13,301970083,Jonathan Liebesman
+554,Fantastic Four: Rise of the Silver Surfer,2007,PG,301913131,Tim Story
+555,Hook,1991,PG,300854823,Steven Spielberg
+556,Superman,1978,PG,300478449,Richard Donner
+557,Rocky IV,1985,PG,300473716,Sylvester Stallone
+558,Rambo: First Blood Part II,1985,R,300400432,George P. Cosmatos
+559,Resident Evil: Afterlife,2010,R,300228084,Paul W.S. Anderson
+560,Van Helsing,2004,PG-13,300157638,Stephen Sommers
+561,Stuart Little,1999,PG,300135367,Rob Minkoff
+562,Beverly Hills Cop II,1987,R,299965036,Tony Scott
+563,Migration,2023,PG,299855347,"Benjamin Renner, Guylo Homsy"
+564,Alice Through the Looking Glass,2016,PG,299820798,James Bobin
+565,My Best Friend's Wedding,1997,PG-13,299288605,P.J. Hogan
+566,Real Steel,2011,PG-13,299268508,Shawn Levy
+567,Horton Hears a Who!,2008,G,298572799,"Jimmy Hayward, Steve Martino"
+568,Ocean's Eight,2018,PG-13,297795726,Gary Ross
+569,A Quiet Place Part II,2020,PG-13,297372261,John Krasinski
+570,The Divergent Series: Insurgent,2015,PG-13,297002527,Robert Schwentke
+571,Look Who's Talking,1989,PG-13,296999813,Amy Heckerling
+572,Austin Powers in Goldmember,2002,PG-13,296938801,Jay Roach
+573,Ghostbusters,1984,PG,296578797,Ivan Reitman
+574,Miss Peregrine's Home for Peculiar Children,2016,PG-13,296482446,Tim Burton
+575,X-Men,2000,PG-13,296339528,Bryan Singer
+576,Ferdinand,2017,PG,296069199,Carlos Saldanha
+577,Shutter Island,2010,R,294942469,Martin Scorsese
+578,Doctor Dolittle,1998,PG-13,294456605,Betty Thomas
+579,Bee Movie,2007,PG,293514336,"Simon J. Smith, Steve Hickner"
+580,Salt,2010,PG-13,293503354,Phillip Noyce
+581,G-Force,2009,PG,292817898,Hoyt Yeatman
+582,Five Nights at Freddy's,2023,PG-13,291493620,Emma Tammi
+583,The Departed,2006,R,291481358,Martin Scorsese
+584,What Lies Beneath,2000,PG-13,291420351,Robert Zemeckis
+585,Pacific Rim: Uprising,2018,PG-13,290930148,Steven S. DeKnight
+586,The Bourne Supremacy,2004,PG-13,290835269,Paul Greengrass
+587,Sex and the City 2,2010,R,290745055,Michael Patrick King
+588,Shakespeare in Love,1998,R,289317794,John Madden
+589,Divergent,2014,PG-13,288885818,Neil Burger
+590,Coming to America,1988,R,288752301,John Landis
+591,Elvis,2022,PG-13,288670284,Baz Luhrmann
+592,Wedding Crashers,2005,R,288485135,David Dobkin
+593,Maze Runner: The Death Cure,2018,PG-13,288175335,Wes Ball
+594,Casper,1995,PG,288039549,Brad Silberling
+595,American Pie 2,2001,R,287553595,J.B. Rogers
+596,Pitch Perfect 2,2015,PG-13,287144079,Elizabeth Banks
+597,The Green Mile,1999,R,286801374,Frank Darabont
+598,Oblivion,2013,PG-13,286168572,Joseph Kosinski
+599,Elysium,2013,R,286140700,Neill Blomkamp
+600,Lethal Weapon 4,1998,R,285444603,Richard Donner
+601,John Carter,2012,PG-13,284139100,Andrew Stanton
+602,Turbo,2013,PG,282570682,David Soren
+603,Paddington,2014,PG,282463312,Paul King
+604,The Tourist,2010,PG-13,278780441,Florian Henckel von Donnersmarck
+605,Split,2016,PG-13,278454417,M. Night Shyamalan
+606,Scary Movie,2000,R,278019771,Keenen Ivory Wayans
+607,xXx,2002,PG-13,277448382,Rob Cohen
+608,Blade Runner 2049,2017,R,276605984,Denis Villeneuve
+609,Creed III,2023,PG-13,276148615,Michael B. Jordan
+610,The Bourne Legacy,2012,PG-13,276144750,Tony Gilroy
+611,Mr. Peabody & Sherman,2014,PG,275698039,Rob Minkoff
+612,Scooby-Doo,2002,PG,275679958,Raja Gosnell
+613,Lincoln,2012,PG-13,275293450,Steven Spielberg
+614,Tomb Raider,2018,PG-13,274950803,Roar Uthaug
+615,Lara Croft: Tomb Raider,2001,PG-13,274703340,Simon West
+616,The Expendables,2010,R,274470394,Sylvester Stallone
+617,Cloudy with a Chance of Meatballs 2,2013,PG,274325949,"Cody Cameron, Kris Pearn"
+618,The Nutty Professor,1996,PG-13,273961019,Tom Shadyac
+619,Jerry Maguire,1996,R,273552592,Cameron Crowe
+620,Bad Boys II,2003,R,273340010,Michael Bay
+621,Lilo & Stitch,2002,PG,273147061,"Dean DeBlois, Chris Sanders"
+622,The Silence of the Lambs,1991,R,272742922,Jonathan Demme
+623,Grown Ups,2010,PG-13,271457606,Dennis Dugan
+624,The Flash,2023,PG-13,271433313,Andy Muschietti
+625,Neighbors,2014,R,270665134,Nicholas Stoller
+626,The Firm,1993,R,270248367,Sydney Pollack
+627,We're the Millers,2013,R,269994119,Rawson Marshall Thurber
+628,Gran Torino,2008,R,269958228,Clint Eastwood
+629,"10,000 BC",2008,PG-13,269784201,Roland Emmerich
+630,American Gangster,2007,R,269755430,Ridley Scott
+631,The Nun II,2023,R,269667073,Michael Chaves
+632,Epic,2013,PG,268426634,Chris Wedge
+633,Exodus: Gods and Kings,2014,PG-13,268175631,Ridley Scott
+634,This Is It,2009,PG,267983588,Kenny Ortega
+635,Bambi,1942,Approved,267447150,"James Algar, Samuel Armstrong, David Hand"
+636,The Princess and the Frog,2009,G,267056816,"Ron Clements, John Musker"
+637,Batman Returns,1992,PG-13,266940655,Tim Burton
+638,Indecent Proposal,1993,R,266614059,Adrian Lyne
+639,Something's Gotta Give,2003,PG-13,265328738,Nancy Meyers
+640,Bridget Jones: The Edge of Reason,2004,R,265126918,Beeban Kidron
+641,The Incredible Hulk,2008,PG-13,264770996,Louis Leterrier
+642,Waterworld,1995,PG-13,264218220,Kevin Reynolds
+643,The Truman Show,1998,PG,264118712,Peter Weir
+644,Charlie's Angels,2000,PG-13,264105545,McG
+645,The Fifth Element,1997,PG-13,263920180,Luc Besson
+646,Jumanji,1995,PG,262821940,Joe Johnston
+647,Borat,2006,R,262552893,Larry Charles
+648,Robots,2005,PG,262511490,"Chris Wedge, Carlos Saldanha"
+649,Parasite,2019,R,262129969,Bong Joon Ho
+650,Knight and Day,2010,PG-13,261989769,James Mangold
+651,A Quiet Place: Day One,2024,PG-13,261786322,Michael Sarnoski
+652,Taylor Swift: The Eras Tour,2023,PG-13,261656269,Sam Wrench
+653,Total Recall,1990,R,261317921,Paul Verhoeven
+654,Encanto,2021,PG,261152489,"Jared Bush, Byron Howard, Charise Castro Smith"
+655,Terminator: Dark Fate,2019,R,261119292,Tim Miller
+656,The Lone Ranger,2013,PG-13,260502115,Gore Verbinski
+657,Super 8,2011,PG-13,260095986,J.J. Abrams
+658,Halloween,2018,R,259939869,David Gordon Green
+659,Mojin: The Lost Legend,2015,Not Rated,259368448,Wuershan
+660,Charlie's Angels: Full Throttle,2003,PG-13,259175788,McG
+661,Rush Hour 3,2007,PG-13,258097122,Brett Ratner
+662,The Full Monty,1997,R,257938649,Peter Cattaneo
+663,Kung Fu Yoga,2017,Not Rated,257753889,Stanley Tong
+664,Annabelle,2014,R,257589952,John R. Leonetti
+665,The Garfield Movie,2024,PG,257211519,Mark Dindal
+666,The Village,2004,PG-13,256697520,M. Night Shyamalan
+667,Lost in Hong Kong,2015,Not Rated,256283912,Zheng Xu
+668,Erin Brockovich,2000,R,256271286,Steven Soderbergh
+669,Us,2019,R,256071218,Jordan Peele
+670,Pegasus,2019,Not Rated,255863112,Han Han
+671,Get Out,2017,R,255751443,Jordan Peele
+672,Marley & Me,2008,PG,255743968,David Frankel
+673,Cliffhanger,1993,R,255000211,Renny Harlin
+674,Wish,2023,PG,254997360,"Chris Buck, Fawn Veerasunthorn"
+675,Baahubali 2: The Conclusion,2017,Not Rated,254158390,S.S. Rajamouli
+676,Babe,1995,G,254134910,Chris Noonan
+677,Men in Black: International,2019,PG-13,253890701,F. Gary Gray
+678,Wild Hogs,2007,PG-13,253625427,Walt Becker
+679,High School Musical 3: Senior Year,2008,G,252909177,Kenny Ortega
+680,Hercules,1997,G,252712101,"Ron Clements, John Musker"
+681,X-Men: Dark Phoenix,2019,PG-13,252442974,Simon Kinberg
+682,True Grit,2010,PG-13,252278285,"Ethan Coen, Joel Coen"
+683,Dolittle,2020,PG,251410631,Stephen Gaghan
+684,Bean,1997,PG-13,251212670,Mel Smith
+685,American Hustle,2013,R,251171807,David O. Russell
+686,Enemy of the State,1998,R,250849789,Tony Scott
+687,You've Got Mail,1998,PG,250821575,Nora Ephron
+688,Sound of Freedom,2023,PG-13,250570396,Alejandro Monteverde
+689,Eragon,2006,PG,250425512,Stefen Fangmeier
+690,Brother Bear,2003,G,250397798,"Aaron Blaise, Robert Walker"
+691,The Bad Guys,2022,PG,250387888,Pierre Perifel
+692,The Godfather,1972,R,250342198,Francis Ford Coppola
+693,The Mask of Zorro,1998,PG-13,250288523,Martin Campbell
+694,Love Actually,2003,R,250215630,Richard Curtis
+695,The Ring,2002,PG-13,249348933,Gore Verbinski
+696,The Blair Witch Project,1999,R,248639099,"Daniel Myrick, Eduardo Sánchez"
+697,Unbreakable,2000,PG-13,248118121,M. Night Shyamalan
+698,Journey to the West: The Demons Strike Back,2017,PG-13,247585244,Hark Tsui
+699,Dumb and Dumber,1994,PG-13,247290327,"Peter Farrelly, Bobby Farrelly"
+700,Glass,2019,PG-13,246999039,M. Night Shyamalan
+701,Grown Ups 2,2013,PG-13,246984278,Dennis Dugan
+702,The Peanuts Movie,2015,G,246233113,Steve Martino
+703,Rango,2011,PG,245724603,Gore Verbinski
+704,Four Weddings and a Funeral,1994,R,245700832,Mike Newell
+705,Face/Off,1997,R,245676146,John Woo
+706,Teenage Mutant Ninja Turtles: Out of the Shadows,2016,PG-13,245623848,Dave Green
+707,Dark Shadows,2012,PG-13,245527149,Tim Burton
+708,Hulk,2003,PG-13,245285165,Ang Lee
+709,The Bravest,2019,PG-13,245179562,Tony Chan
+710,Welcome to the Sticks,2008,Not Rated,245144417,Dany Boon
+711,Back to the Future Part III,1990,PG,245077583,Robert Zemeckis
+712,Pixels,2015,PG-13,244874809,Chris Columbus
+713,Hercules,2014,PG-13,244819862,Brett Ratner
+714,Rush Hour,1998,PG-13,244721064,Brett Ratner
+715,Journey to the Center of the Earth,2008,PG,244232688,Eric Brevig
+716,Sully,2016,PG-13,243870033,Clint Eastwood
+717,After Earth,2013,PG-13,243611982,M. Night Shyamalan
+718,A Few Good Men,1992,R,243240178,Rob Reiner
+719,Cloudy with a Chance of Meatballs,2009,PG,243006136,"Phil Lord, Christopher Miller"
+720,8 Mile,2002,R,242875078,Curtis Hanson
+721,Daddy's Home,2015,PG-13,242786137,Sean Anders
+722,RoboCop,2014,PG-13,242688965,José Padilha
+723,Eraser,1996,R,242295562,Chuck Russell
+724,Alien: Covenant,2017,R,240892187,Ridley Scott
+725,Assassin's Creed,2016,PG-13,240697856,Justin Kurzel
+726,Click,2006,PG-13,240685326,Frank Coraci
+727,Jiang Ziya,2020,TV-PG,240646355,"Teng Cheng, Li Wei"
+728,Howl's Moving Castle,2004,PG,240420227,Hayao Miyazaki
+729,Planes,2013,PG,240171783,Klay Hall
+730,Resident Evil: Retribution,2012,R,240159255,Paul W.S. Anderson
+731,Die Hard 2,1990,R,240031274,Renny Harlin
+732,Crocodile Dundee II,1988,PG,239606210,John Cornell
+733,Crazy Rich Asians,2018,PG-13,239343729,Jon M. Chu
+734,Bullet Train,2022,R,239268602,David Leitch
+735,Batman & Robin,1997,PG-13,238259753,Joel Schumacher
+736,Gulliver's Travels,2010,PG,237382724,Rob Letterman
+737,Gone in 60 Seconds,2000,PG-13,237202299,Dominic Sena
+738,Green Lantern,2011,PG-13,237201172,Martin Campbell
+739,Saturday Night Fever,1977,R,237113184,John Badham
+740,Silver Linings Playbook,2012,R,236412453,David O. Russell
+741,2 Fast 2 Furious,2003,PG-13,236353236,John Singleton
+742,Hidden Figures,2016,PG,235957472,Theodore Melfi
+743,A.I. Artificial Intelligence,2001,PG-13,235926635,Steven Spielberg
+744,Dead Poets Society,1989,PG,235860116,Peter Weir
+745,Spy,2015,R,235666219,Paul Feig
+746,American Pie,1999,R,235483004,"Paul Weitz, Chris Weitz"
+747,American Reunion,2012,R,234989584,"Jon Hurwitz, Hayden Schlossberg"
+748,Big Daddy,1999,PG-13,234801895,Dennis Dugan
+749,Alvin and the Chipmunks: The Road Chip,2015,PG,234798636,Walt Becker
+750,The Imitation Game,2014,PG-13,233555708,Morten Tyldum
+751,Cruella,2021,PG-13,233503234,Craig Gillespie
+752,The Day the Earth Stood Still,2008,PG-13,233093859,Scott Derrickson
+753,American Wedding,2003,R,232722935,Jesse Dylan
+754,The Girl with the Dragon Tattoo,2011,R,232617430,David Fincher
+755,Juno,2007,PG-13,232372830,Jason Reitman
+756,Argo,2012,R,232325503,Ben Affleck
+757,Mr. Bean's Holiday,2007,G,232225908,Steve Bendelack
+758,The English Patient,1996,R,231976425,Anthony Minghella
+759,Sister Act,1992,PG,231605150,Emile Ardolino
+760,Annabelle Comes Home,2019,R,231252591,Gary Dauberman
+761,Constantine,2005,R,230884728,Francis Lawrence
+762,Get Smart,2008,PG-13,230685453,Peter Segal
+763,Space Jam,1996,PG,230594962,Joe Pytka
+764,Life Is Beautiful,1997,PG-13,230099013,Roberto Benigni
+765,The Heat,2013,R,229930771,Paul Feig
+766,Ghostbusters,2016,PG-13,229147509,Paul Feig
+767,Elf,2003,PG,228936304,Jon Favreau
+768,Ghost Rider,2007,PG-13,228738393,Mark Steven Johnson
+769,Goodbye Mr. Loser,2015,Not Rated,228122928,"Da-Mo Peng, Fei Yan"
+770,Sleepless in Seattle,1993,PG,227927165,Nora Ephron
+771,Lethal Weapon 2,1989,R,227853986,Richard Donner
+772,The Green Hornet,2011,PG-13,227817248,Michel Gondry
+773,Out of Africa,1985,PG,227514205,Sydney Pollack
+774,Better Days,2019,Not Rated,227313644,Derek Tsang
+775,Paddington 2,2017,PG,227309407,Paul King
+776,Youth,2017,Not Rated,227091290,Xiaogang Feng
+777,Baby Driver,2017,R,226945087,Edgar Wright
+778,Immortals,2011,R,226904017,Tarsem Singh
+779,Taken,2008,PG-13,226837760,Pierre Morel
+780,Percy Jackson & the Olympians: The Lightning Thief,2010,PG,226497209,Chris Columbus
+781,Lightyear,2022,PG,226425420,Angus MacLane
+782,Hansel & Gretel: Witch Hunters,2013,R,226349749,Tommy Wirkola
+783,Valerian and the City of a Thousand Planets,2017,PG-13,225973340,Luc Besson
+784,Good Will Hunting,1997,R,225933435,Gus Van Sant
+785,Ford v Ferrari,2019,PG-13,225508210,James Mangold
+786,Jumper,2008,PG-13,225132113,Doug Liman
+787,The Social Network,2010,PG-13,224927749,David Fincher
+788,Chicken Run,2000,G,224888359,"Peter Lord, Nick Park"
+789,Con Air,1997,R,224012234,Simon West
+790,Interview with the Vampire,1994,R,223664608,Neil Jordan
+791,Flightplan,2005,PG-13,223387299,Robert Schwentke
+792,Yes Man,2008,PG-13,223241637,Peyton Reed
+793,Non-Stop,2014,PG-13,222809600,Jaume Collet-Serra
+794,"Honey, I Shrunk the Kids",1989,PG,222724172,Joe Johnston
+795,Fahrenheit 9/11,2004,R,222446882,Michael Moore
+796,Wild Wild West,1999,PG-13,222104681,Barry Sonnenfeld
+797,Geostorm,2017,PG-13,221900160,Dean Devlin
+798,"My Country, My Parents",2021,Not Rated,221831086,"Teng Shen, Jing Wu, Zheng Xu"
+799,The Help,2011,PG-13,221802186,Tate Taylor
+800,Napoleon,2023,R,221394838,Ridley Scott
+801,Presumed Innocent,1990,R,221303188,Alan J. Pakula
+802,Jungle Cruise,2021,PG-13,220889446,Jaume Collet-Serra
+803,Scary Movie 3,2003,PG-13,220673217,David Zucker
+804,Anyone But You,2023,R,220242225,Will Gluck
+805,Collateral,2004,R,220239925,Michael Mann
+806,Inferno,2016,PG-13,220021259,Ron Howard
+807,Knocked Up,2007,R,219922417,Judd Apatow
+808,What Happens in Vegas,2008,PG-13,219375562,Tom Vaughan
+809,It's Complicated,2009,R,219103655,Nancy Meyers
+810,The Terminal,2004,PG-13,219100084,Steven Spielberg
+811,Little Women,2019,PG,218843645,Greta Gerwig
+812,Captain Phillips,2013,PG-13,218791811,Paul Greengrass
+813,The Prince of Egypt,1998,PG,218613188,"Brenda Chapman, Steve Hickner, Simon Wells"
+814,Jack Reacher,2012,PG-13,218340595,Christopher McQuarrie
+815,Kingdom of Heaven,2005,R,218237071,Ridley Scott
+816,Smallfoot,2018,PG,218015531,"Karey Kirkpatrick, Jason Reisig"
+817,The Emoji Movie,2017,PG,217776646,Tony Leondis
+818,Smile,2022,R,217408513,Parker Finn
+819,Too Cool to Kill,2022,Not Rated,217254604,"Wenxiong Xing, Ru Qian"
+820,Dracula Untold,2014,PG-13,217124280,Gary Shore
+821,Central Intelligence,2016,PG-13,216940871,Rawson Marshall Thurber
+822,Million Dollar Baby,2004,PG-13,216763646,Clint Eastwood
+823,Twins,1988,PG,216614388,Ivan Reitman
+824,Valentine's Day,2010,PG-13,216528528,Garry Marshall
+825,Superman II,1980,PG,216385706,"Richard Lester, Richard Donner"
+826,Bad Teacher,2011,R,216197492,Jake Kasdan
+827,A Little Red Flower,2020,Not Rated,216000000,Yan Han
+828,The Croods: A New Age,2020,PG,215905815,Joel Crawford
+829,Clear and Present Danger,1994,PG-13,215887717,Phillip Noyce
+830,One Hundred and One Dalmatians,1961,G,215880014,"Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman"
+831,Ted 2,2015,R,215863606,Seth MacFarlane
+832,Bram Stoker's Dracula,1992,R,215862692,Francis Ford Coppola
+833,Vertical Limit,2000,PG-13,215663859,Martin Campbell
+834,Ghostbusters II,1989,PG,215394738,Ivan Reitman
+835,The Patriot,2000,R,215294342,Roland Emmerich
+836,The Sorcerer's Apprentice,2010,PG,215283742,Jon Turteltaub
+837,Just Go with It,2011,PG-13,214945591,Dennis Dugan
+838,The Expendables 3,2014,PG-13,214657577,Patrick Hughes
+839,Dirty Dancing,1987,PG-13,214577242,Emile Ardolino
+840,Creed II,2018,PG-13,214215889,Steven Caple Jr.
+841,Public Enemies,2009,R,214104620,Michael Mann
+842,The Bourne Identity,2002,PG-13,214034224,Doug Liman
+843,Disclosure,1994,R,214015089,Barry Levinson
+844,"Crouching Tiger, Hidden Dragon",2000,PG-13,213978518,Ang Lee
+845,Pulp Fiction,1994,R,213928762,Quentin Tarantino
+846,The Aviator,2004,PG-13,213719942,Martin Scorsese
+847,Braveheart,1995,R,213216216,Mel Gibson
+848,Into the Woods,2014,PG,212902959,Rob Marshall
+849,Bedtime Stories,2008,PG,212874864,Adam Shankman
+850,Miss Congeniality,2000,PG-13,212742720,Donald Petrie
+851,Entrapment,1999,PG-13,212404396,Jon Amiel
+852,Ace Ventura: When Nature Calls,1995,PG-13,212385533,Steve Oedekerk
+853,End of Days,1999,R,211989043,Peter Hyams
+854,Bridget Jones's Baby,2016,R,211952420,Sharon Maguire
+855,Fury,2014,R,211822697,David Ayer
+856,Battle Los Angeles,2011,PG-13,211819354,Jonathan Liebesman
+857,Australia,2008,PG-13,211788761,Baz Luhrmann
+858,Due Date,2010,R,211780824,Todd Phillips
+859,Master and Commander: The Far Side of the World,2003,PG-13,211622535,Peter Weir
+860,A Series of Unfortunate Events,2004,PG,211468235,Brad Silberling
+861,The Little Mermaid,1989,G,211343479,"Ron Clements, John Musker"
+862,Nice View,2022,Not Rated,211019042,Muye Wen
+863,District 9,2009,R,210888950,Neill Blomkamp
+864,Moonraker,1979,PG,210308099,Lewis Gilbert
+865,The Others,2001,PG-13,210002906,Alejandro Amenábar
+866,Horrible Bosses,2011,R,209838559,Seth Gordon
+867,Trolls Band Together,2023,PG,209372575,"Walt Dohrn, Tim Heitz"
+868,Us and Them,2018,Not Rated,209221380,Rene Liu
+869,Red Dragon,2002,R,209196298,Brett Ratner
+870,Tomorrowland,2015,PG,209035668,Brad Bird
+871,Arrival,2016,PG-13,208944807,Denis Villeneuve
+872,Me Before You,2016,PG-13,208445075,Thea Sharrock
+873,Safe House,2012,R,208076205,Daniel Espinosa
+874,S.W.A.T.,2003,PG-13,207725639,Clark Johnson
+875,DC League of Super-Pets,2022,PG,207557117,"Jared Stern, Sam J. Levine"
+876,The Fast and the Furious,2001,PG-13,207517995,Rob Cohen
+877,Traffic,2000,R,207515725,Steven Soderbergh
+878,Paranormal Activity 3,2011,R,207039844,"Henry Joost, Ariel Schulman"
+879,Philadelphia,1993,PG-13,206678440,Jonathan Demme
+880,The Conjuring: The Devil Made Me Do It,2021,R,206431050,Michael Chaves
+881,The Marvels,2023,PG-13,206136825,Nia DaCosta
+882,Sleepy Hollow,1999,R,206071526,Tim Burton
+883,Ponyo,2008,G,205916673,Hayao Miyazaki
+884,The Holiday,2006,PG-13,205891960,Nancy Meyers
+885,The Jungle Book,1967,Approved,205843612,Wolfgang Reitherman
+886,Raging Fire,2021,Not Rated,205842393,"Benny Chan, Shane Comley-White"
+887,London Has Fallen,2016,R,205754447,Babak Najafi
+888,The Break-Up,2006,PG-13,205668210,Peyton Reed
+889,Journey to the West: Conquering the Demons,2013,PG-13,205637183,"Stephen Chow, Chi-Kin Kwok"
+890,The Ugly Truth,2009,R,205599393,Robert Luketic
+891,Birds of Prey,2020,R,205537933,Cathy Yan
+892,JFK,1991,R,205405498,Oliver Stone
+893,White House Down,2013,PG-13,205366737,Roland Emmerich
+894,Dungeons & Dragons: Honor Among Thieves,2023,PG-13,205187763,"John Francis Daley, Jonathan Goldstein"
+895,A Dog's Purpose,2017,PG,205035819,Lasse Hallström
+896,PAW Patrol: The Mighty Movie,2023,PG,204986920,Cal Brunker
+897,Fun with Dick and Jane,2005,PG-13,204681899,Dean Parisot
+898,Eat Pray Love,2010,PG-13,204596571,Ryan Murphy
+899,The Addams Family,2019,PG,204394183,"Greg Tiernan, Conrad Vernon"
+900,Ghostbusters: Afterlife,2021,PG-13,204334455,Jason Reitman
+901,You Don't Mess with the Zohan,2008,PG-13,204313400,Dennis Dugan
+902,Hairspray,2007,PG,203630031,Adam Shankman
+903,King Arthur,2004,PG-13,203567857,Antoine Fuqua
+904,Yogi Bear,2010,PG,203509374,Eric Brevig
+905,Everest,2015,PG-13,203427584,Baltasar Kormákur
+906,Vanilla Sky,2001,R,203388341,Cameron Crowe
+907,Need for Speed,2014,PG-13,203277636,Scott Waugh
+908,Garfield: The Movie,2004,PG,203172417,Peter Hewitt
+909,Patch Adams,1998,PG-13,202292902,Tom Shadyac
+910,Teenage Mutant Ninja Turtles,1990,PG,202084756,Steve Barron
+911,Kindergarten Cop,1990,PG-13,201957688,Ivan Reitman
+912,Ghostbusters: Frozen Empire,2024,PG-13,201856657,Gil Kenan
+913,Straight Outta Compton,2015,R,201634991,F. Gary Gray
+914,21 Jump Street,2012,R,201585556,"Phil Lord, Christopher Miller"
+915,Valkyrie,2008,PG-13,201545517,Bryan Singer
+916,Open Season,2006,PG,200811689,"Roger Allers, Jill Culton, Anthony Stacchi"
+917,Cats & Dogs,2001,PG,200687492,Lawrence Guterman
+918,The Hunt for Red October,1990,PG,200512643,John McTiernan
+919,Percy Jackson: Sea of Monsters,2013,PG,199850315,Thor Freudenthal
+920,The Lego Movie 2: The Second Part,2019,PG,199603202,Mike Mitchell
+921,Two Weeks Notice,2002,PG-13,199043471,Marc Lawrence
+922,RED,2010,PG-13,199006387,Robert Schwentke
+923,Shock Wave 2,2020,Not Rated,198921659,"Herman Yau, Shane Comley-White"
+924,City of Angels,1998,PG-13,198685114,Brad Silberling
+925,The Pacifier,2005,PG,198636868,Adam Shankman
+926,50 First Dates,2004,PG-13,198520934,Peter Segal
+927,Total Recall,2012,PG-13,198467607,Len Wiseman
+928,The Island,2018,Not Rated,198326350,Huang Bo
+929,The Impossible,2012,PG-13,198087212,J.A. Bayona
+930,Lost in Thailand,2012,Not Rated,197757387,Zheng Xu
+931,Christopher Robin,2018,PG,197744825,Marc Forster
+932,Jack the Giant Slayer,2013,PG-13,197687603,Bryan Singer
+933,Smurfs: The Lost Village,2017,PG,197183546,Kelly Asbury
+934,Chinese Doctors,2021,Not Rated,197143218,Wai Keung Lau
+935,Spy Kids 3: Game Over,2003,PG,197101678,Robert Rodriguez
+936,Panic Room,2002,R,197079546,David Fincher
+937,The Other Woman,2014,PG-13,196710396,Nick Cassavetes
+938,Stargate,1994,PG-13,196567262,Roland Emmerich
+939,Beowulf,2007,PG-13,196393745,Robert Zemeckis
+940,The Vow,2012,PG-13,196114570,Michael Sucsy
+941,Anger Management,2003,PG-13,195745823,Peter Segal
+942,Tropic Thunder,2008,R,195703351,Ben Stiller
+943,Rocketman,2019,R,195320400,Dexter Fletcher
+944,The Pelican Brief,1993,PG-13,195268056,Alan J. Pakula
+945,The Shape of Water,2017,R,195243464,Guillermo del Toro
+946,The BFG,2016,PG,195243411,Steven Spielberg
+947,The Intern,2015,PG-13,194764672,Nancy Meyers
+948,Downton Abbey,2019,PG,194694725,Michael Engler
+949,Gnomeo & Juliet,2011,G,193967670,Kelly Asbury
+950,The Sum of All Fears,2002,PG-13,193921372,Phil Alden Robinson
+951,Gangs of New York,2002,R,193772504,Martin Scorsese
+952,The Post,2017,PG-13,193764664,Steven Spielberg
+953,The Monkey King 2,2016,Not Rated,193678298,Soi Cheang
+954,Paranormal Activity,2007,R,193355933,Oren Peli
+955,The Lost City,2022,PG-13,192907684,"Aaron Nee, Adam Nee"
+956,Wallace & Gromit: The Curse of the Were-Rabbit,2005,G,192705291,"Steve Box, Nick Park"
+957,The Equalizer,2014,R,192330738,Antoine Fuqua
+958,Weathering with You,2019,PG-13,192011547,Makoto Shinkai
+959,Sheep Without a Shepherd,2019,Not Rated,191602146,Sam Quah
+960,The Addams Family,1991,PG-13,191502426,Barry Sonnenfeld
+961,The Longest Yard,2005,PG-13,191466556,Peter Segal
+962,The Equalizer 3,2023,R,191067560,Antoine Fuqua
+963,The Santa Clause,1994,PG,190539357,John Pasquin
+964,Cheaper by the Dozen,2003,PG,190538630,Shawn Levy
+965,The Equalizer 2,2018,R,190400157,Antoine Fuqua
+966,IF,2024,PG,190309707,John Krasinski
+967,Abominable,2019,PG,190304772,"Jill Culton, Todd Wilderman"
+968,Hollow Man,2000,R,190213455,Paul Verhoeven
+969,Outbreak,1995,R,189859560,Wolfgang Petersen
+970,The White Storm 2: Drug Lords,2019,Not Rated,189396380,Herman Yau
+971,The X Files,1998,PG-13,189176423,Rob Bowman
+972,Insidious: The Red Door,2023,PG-13,189086877,Patrick Wilson
+973,Breakup Buddies,2014,Not Rated,189017596,Hao Ning
+974,Rambo III,1988,R,189015611,Peter MacDonald
+975,The Secret Life of Walter Mitty,2013,PG,188133322,Ben Stiller
+976,Project Gutenberg,2018,Not Rated,188116796,Felix Chong
+977,Jaws 2,1978,PG,187884007,Jeannot Szwarc
+978,12 Years a Slave,2013,R,187734091,Steve McQueen
+979,Heat,1995,R,187436818,Michael Mann
+980,Mr. Popper's Penguins,2011,PG,187361754,Mark Waters
+981,The Grudge,2004,PG-13,187281115,Takashi Shimizu
+982,I Now Pronounce You Chuck & Larry,2007,PG-13,187134117,Dennis Dugan
+983,The Horse Whisperer,1998,PG-13,186883563,Robert Redford
+984,Walk the Line,2005,PG-13,186797986,James Mangold
+985,Jian Bing Man,2015,Not Rated,186699768,Da Peng
+986,The Jungle Book 2,2003,G,186303759,Steve Trenbirth
+987,The Final Destination,2009,R,186167139,David R. Ellis
+988,Atlantis: The Lost Empire,2001,PG,186053725,"Gary Trousdale, Kirk Wise"
+989,Inside Man,2006,R,186003591,Spike Lee
+990,The Waterboy,1998,PG-13,185991646,Frank Coraci
+991,Hugo,2011,PG,185770310,Martin Scorsese
+992,Coraline,2009,PG,185768322,Henry Selick
+993,Pitch Perfect 3,2017,PG-13,185400345,Trish Sie
+994,Watchmen,2009,R,185382813,Zack Snyder
+995,The Birdcage,1996,R,185260553,Mike Nichols
+996,Snow White and the Seven Dwarfs,1937,Approved,184960747,"William Cottrell, David Hand, Wilfred Jackson"
+997,Moulin Rouge!,2001,PG-13,184935252,Baz Luhrmann
+998,Ode to My Father,2014,Not Rated,184827559,JK Youn
+999,Hop,2011,PG,184367665,Tim Hill
+1000,Jupiter Ascending,2015,PG-13,184287723,"Lana Wachowski, Lilly Wachowski"

@@ -1,0 +1,1001 @@
+rank,movie_name,release_date,audience_rating
+1,The Shawshank Redemption,1994,R
+2,The Godfather,1972,R
+3,The Dark Knight,2008,PG-13
+4,The Lord of the Rings: The Return of the King,2003,PG-13
+5,12 Angry Men,1957,Approved
+6,Schindler's List,1993,R
+7,The Godfather Part II,1974,R
+8,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13
+9,Pulp Fiction,1994,R
+10,Inception,2010,PG-13
+11,Fight Club,1999,R
+12,Forrest Gump,1994,PG-13
+13,The Lord of the Rings: The Two Towers,2002,PG-13
+14,"The Good, the Bad and the Ugly",1966,R
+15,12th Fail,2023,Not Rated
+16,Interstellar,2014,PG-13
+17,The Matrix,1999,R
+18,Goodfellas,1990,R
+19,One Flew Over the Cuckoo's Nest,1975,R
+20,Star Wars: Episode V - The Empire Strikes Back,1980,PG
+21,Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,2021,Not Rated
+22,Jai Bhim,2021,Approved
+23,Soorarai Pottru,2020,Not Rated
+24,777 Charlie,2022,Not Rated
+25,Rocketry: The Nambi Effect,2022,Not Rated
+26,It's a Wonderful Life,1946,PG
+27,Se7en,1995,R
+28,The Silence of the Lambs,1991,R
+29,The Green Mile,1999,R
+30,Spider-Man: Across the Spider-Verse,2023,PG
+31,Star Wars: Episode IV - A New Hope,1977,PG
+32,Saving Private Ryan,1998,R
+33,City of God,2002,R
+34,Terminator 2: Judgment Day,1991,R
+35,Spirited Away,2001,PG
+36,Life Is Beautiful,1997,PG-13
+37,Seven Samurai,1954,Not Rated
+38,Harakiri,1962,Not Rated
+39,Gladiator,2000,R
+40,Dune: Part Two,2024,PG-13
+41,Alien,1979,R
+42,Parasite,2019,R
+43,The Lion King,1994,G
+44,The Departed,2006,R
+45,Whiplash,2014,R
+46,The Prestige,2006,PG-13
+47,Back to the Future,1985,PG
+48,Léon: The Professional,1994,R
+49,Django Unchained,2012,R
+50,The Usual Suspects,1995,R
+51,Maharaja,2024,Not Rated
+52,American History X,1998,R
+53,The Pianist,2002,R
+54,Casablanca,1942,PG
+55,Psycho,1960,R
+56,Grave of the Fireflies,1988,Not Rated
+57,The Intouchables,2011,R
+58,Once Upon a Time in the West,1968,PG-13
+59,Cinema Paradiso,1988,PG
+60,Rear Window,1954,PG
+61,Sita Ramam,2022,Not Rated
+62,City Lights,1931,G
+63,Modern Times,1936,G
+64,96,2018,Not Rated
+65,Inglourious Basterds,2009,R
+66,Raiders of the Lost Ark,1981,PG
+67,Avengers: Endgame,2019,PG-13
+68,Joker,2019,R
+69,The Dark Knight Rises,2012,PG-13
+70,The Shining,1980,R
+71,Memento,2000,R
+72,Apocalypse Now,1979,R
+73,Avengers: Infinity War,2018,PG-13
+74,Aliens,1986,R
+75,Spider-Man: Into the Spider-Verse,2018,PG
+76,Amadeus,1984,PG
+77,WALL·E,2008,G
+78,Coco,2017,PG
+79,The Lives of Others,2006,R
+80,Das Boot,1981,Not Rated
+81,Your Name.,2016,Not Rated
+82,Sunset Boulevard,1950,Approved
+83,Lost Ladies,2023,TV-14
+84,Capernaum,2018,R
+85,3 Idiots,2009,PG-13
+86,Paths of Glory,1957,Approved
+87,Witness for the Prosecution,1957,Approved
+88,High and Low,1963,Not Rated
+89,The Great Dictator,1940,G
+90,Kaithi,2019,Not Rated
+91,Asuran,2019,Not Rated
+92,Drishyam 2,2021,Not Rated
+93,The Wild Robot,2024,PG
+94,Oppenheimer,2023,R
+95,Eternal Sunshine of the Spotless Mind,2004,R
+96,Requiem for a Dream,2000,NC-17
+97,Good Will Hunting,1997,R
+98,American Beauty,1999,R
+99,Incendies,2010,R
+100,Braveheart,1995,R
+101,Heat,1995,R
+102,Oldboy,2003,R
+103,Scarface,1983,R
+104,The Hunt,2012,R
+105,Once Upon a Time in America,1984,R
+106,2001: A Space Odyssey,1968,G
+107,Come and See,1985,Not Rated
+108,Reservoir Dogs,1992,R
+109,Toy Story,1995,G
+110,To Kill a Mockingbird,1962,Approved
+111,Hamilton,2020,PG-13
+112,Star Wars: Episode VI - Return of the Jedi,1983,PG
+113,Amélie,2001,R
+114,Citizen Kane,1941,PG
+115,Lawrence of Arabia,1962,PG
+116,Up,2009,PG
+117,Princess Mononoke,1997,PG-13
+118,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG
+119,Toy Story 3,2010,G
+120,North by Northwest,1959,Approved
+121,Metropolis,1927,Not Rated
+122,The Apartment,1960,Approved
+123,Vertigo,1958,PG
+124,Singin' in the Rain,1952,G
+125,M,1931,Passed
+126,The Sting,1973,PG
+127,Ikiru,1952,Not Rated
+128,A Separation,2011,PG-13
+129,Judgment at Nuremberg,1961,Approved
+130,Double Indemnity,1944,Approved
+131,Bicycle Thieves,1948,Not Rated
+132,Like Stars on Earth,2007,PG
+133,Dangal,2016,Not Rated
+134,Vikram,2022,Not Rated
+135,Shershaah,2021,TV-14
+136,Chhichhore,2019,Not Rated
+137,Raatchasan,2018,Not Rated
+138,Sardar Udham,2021,TV-MA
+139,Drishyam,2013,Not Rated
+140,Die Hard,1988,R
+141,Klaus,2019,PG
+142,The Wolf of Wall Street,2013,R
+143,No Country for Old Men,2007,R
+144,Prisoners,2013,R
+145,Spider-Man: No Way Home,2021,PG-13
+146,Top Gun: Maverick,2022,PG-13
+147,Jurassic Park,1993,PG-13
+148,The Thing,1982,R
+149,The Truman Show,1998,PG
+150,Taxi Driver,1976,R
+151,Batman Begins,2005,PG-13
+152,Indiana Jones and the Last Crusade,1989,PG-13
+153,Shutter Island,2010,R
+154,There Will Be Blood,2007,R
+155,L.A. Confidential,1997,R
+156,The Sixth Sense,1999,PG-13
+157,1917,2019,R
+158,Green Book,2018,PG-13
+159,A Clockwork Orange,1971,R
+160,Snatch,2000,R
+161,Howl's Moving Castle,2004,PG
+162,Unforgiven,1992,R
+163,A Beautiful Mind,2001,PG-13
+164,Full Metal Jacket,1987,R
+165,Kill Bill: Vol. 1,2003,R
+166,Casino,1995,R
+167,Finding Nemo,2003,G
+168,Pan's Labyrinth,2006,R
+169,Gone with the Wind,1939,G
+170,Downfall,2004,R
+171,The Father,2020,PG-13
+172,The Elephant Man,1980,PG
+173,Some Like It Hot,1959,Approved
+174,The Secret in Their Eyes,2009,R
+175,Monty Python and the Holy Grail,1975,PG
+176,Tumbbad,2018,Not Rated
+177,K.G.F: Chapter 2,2022,Not Rated
+178,The Great Escape,1963,Approved
+179,For a Few Dollars More,1965,R
+180,Ran,1985,R
+181,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,TV-MA
+182,Rangasthalam,2018,Not Rated
+183,Rashomon,1950,Not Rated
+184,Dial M for Murder,1954,PG
+185,All About Eve,1950,Approved
+186,K.G.F: Chapter 1,2018,Not Rated
+187,Miracle in Cell No. 7,2019,TV-14
+188,Drishyam 2,2022,Not Rated
+189,Baahubali 2: The Conclusion,2017,Not Rated
+190,Yojimbo,1961,Not Rated
+191,Drishyam,2015,Not Rated
+192,The Treasure of the Sierra Madre,1948,Approved
+193,Children of Heaven,1997,PG
+194,The Kid,1921,Passed
+195,Swades,2004,Not Rated
+196,Ayla: The Daughter of War,2017,Not Rated
+197,A Man Escaped,1956,Not Rated
+198,Kantara,2022,Not Rated
+199,Dersu Uzala,1975,G
+200,Pather Panchali,1955,Not Rated
+201,Gangs of Wasseypur,2012,Not Rated
+202,My Father and My Son,2005,Not Rated
+203,Andhadhun,2018,Not Rated
+204,Bhaag Milkha Bhaag,2013,Not Rated
+205,Zindagi Na Milegi Dobara,2011,Not Rated
+206,Sherlock Jr.,1924,Passed
+207,Uri: The Surgical Strike,2019,Not Rated
+208,Umberto D.,1952,Not Rated
+209,Vikram Vedha,2017,Not Rated
+210,Hera Pheri,2000,Not Rated
+211,Paan Singh Tomar,2012,Not Rated
+212,Anora,2024,R
+213,The Wizard of Oz,1939,G
+214,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13
+215,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13
+216,Mad Max: Fury Road,2015,R
+217,The Big Lebowski,1998,R
+218,Catch Me If You Can,2002,PG-13
+219,Dead Poets Society,1989,PG
+220,Blade Runner,1982,R
+221,The Terminator,1984,R
+222,A Christmas Carol,1951,Approved
+223,The Help,2011,PG-13
+224,The Handmaiden,2016,Not Rated
+225,Gone Girl,2014,R
+226,The Sound of Music,1965,G
+227,The Grand Budapest Hotel,2014,R
+228,Inside Out,2015,PG
+229,How to Train Your Dragon,2010,PG
+230,Trainspotting,1996,R
+231,Stand by Me,1986,R
+232,Ben-Hur,1959,G
+233,Hacksaw Ridge,2016,R
+234,V for Vendetta,2005,R
+235,Memories of Murder,2003,Not Rated
+236,Jaws,1975,PG
+237,The Deer Hunter,1978,R
+238,Fargo,1996,R
+239,Rush,2013,R
+240,Ratatouille,2007,G
+241,Logan,2017,R
+242,The Exorcist,1973,R
+243,Ford v Ferrari,2019,PG-13
+244,Into the Wild,2007,R
+245,"Paris, Texas",1984,R
+246,Warrior,2011,PG-13
+247,"Three Billboards Outside Ebbing, Missouri",2017,R
+248,Million Dollar Baby,2004,PG-13
+249,Rocky,1976,PG
+250,Platoon,1986,R
+251,My Neighbor Totoro,1988,G
+252,12 Years a Slave,2013,R
+253,"Monsters, Inc.",2001,G
+254,"Lock, Stock and Two Smoking Barrels",1998,R
+255,Before Sunrise,1995,R
+256,Barry Lyndon,1975,PG
+257,Chinatown,1974,R
+258,Hachi: A Dog's Tale,2009,G
+259,Portrait of a Lady on Fire,2019,R
+260,A Silent Voice: The Movie,2016,Not Rated
+261,Spotlight,2015,R
+262,In the Mood for Love,2000,PG
+263,Raging Bull,1980,R
+264,Gran Torino,2008,R
+265,Room,2015,R
+266,La haine,1995,Not Rated
+267,Wild Tales,2014,R
+268,The Man Who Shot Liberty Valance,1962,Approved
+269,Mary and Max,2009,Not Rated
+270,The Iron Giant,1999,PG
+271,The Seventh Seal,1957,Not Rated
+272,The Bridge on the River Kwai,1957,PG
+273,The Third Man,1949,Approved
+274,Fanny and Alexander,1982,R
+275,Before Sunset,2004,R
+276,In the Name of the Father,1993,R
+277,Network,1976,R
+278,On the Waterfront,1954,Approved
+279,Paper Moon,1973,PG
+280,Hotel Rwanda,2004,PG-13
+281,Neon Genesis Evangelion: The End of Evangelion,1997,TV-MA
+282,Rebecca,1940,Approved
+283,The Red Shoes,1948,Not Rated
+284,I Want to Eat Your Pancreas,2018,Not Rated
+285,It Happened One Night,1934,Approved
+286,The Best Years of Our Lives,1946,Approved
+287,PK,2014,Not Rated
+288,The Battle of Algiers,1966,Not Rated
+289,The Wages of Fear,1953,Not Rated
+290,All Quiet on the Western Front,1930,Approved
+291,The Grapes of Wrath,1940,Approved
+292,Mr. Smith Goes to Washington,1939,Approved
+293,Wild Strawberries,1957,Not Rated
+294,The Message,1976,PG
+295,Tokyo Story,1953,Not Rated
+296,Three Colors: Red,1994,R
+297,Nights of Cabiria,1957,Not Rated
+298,Farewell My Concubine,1993,R
+299,Z,1969,M/PG
+300,Yi Yi,2000,Not Rated
+301,To Be or Not to Be,1942,Approved
+302,Sunrise,1927,Passed
+303,The Passion of Joan of Arc,1928,Passed
+304,Lagaan: Once Upon a Time in India,2001,PG
+305,Inherit the Wind,1960,Approved
+306,Wolf Children,2012,PG
+307,Dil Chahta Hai,2001,Not Rated
+308,Diabolique,1955,Not Rated
+309,Viridiana,1961,Not Rated
+310,Autumn Sonata,1978,PG
+311,The General,1926,Passed
+312,Barfi!,2012,Not Rated
+313,Time of the Gypsies,1988,R
+314,Army of Shadows,1969,Not Rated
+315,White Heat,1949,Approved
+316,Raise the Red Lantern,1991,PG
+317,The Twilight Samurai,2002,Not Rated
+318,Ace in the Hole,1951,Approved
+319,The Gold Rush,1925,Approved
+320,Bajrangi Bhaijaan,2015,Not Rated
+321,Rang De Basanti,2006,Not Rated
+322,A Wednesday,2008,Not Rated
+323,The Grand Illusion,1937,Not Rated
+324,Rififi,1955,Not Rated
+325,Tangerines,2013,Not Rated
+326,Queen,2013,Not Rated
+327,Sholay,1975,Not Rated
+328,Jean de Florette,1986,PG
+329,A Short Film About Love,1988,Not Rated
+330,Munna Bhai M.B.B.S.,2003,Not Rated
+331,Ugetsu,1953,Not Rated
+332,The Bandit,1996,Not Rated
+333,Masaan,2015,Not Rated
+334,Chak De! India,2007,Not Rated
+335,A Moment to Remember,2004,PG-13
+336,OMG: Oh My God!,2012,Not Rated
+337,The Circus,1928,G
+338,Sarfarosh,1999,Not Rated
+339,Black,2005,Not Rated
+340,Guilty,2015,Not Rated
+341,Article 15,2019,Not Rated
+342,Udaan,2010,Not Rated
+343,Kahaani,2012,Not Rated
+344,Everything's Gonna Be Great,1998,Not Rated
+345,Anand,1971,Not Rated
+346,Wicked,2024,PG
+347,Dune: Part One,2021,PG-13
+348,Blade Runner 2049,2017,R
+349,Casino Royale,2006,PG-13
+350,The Princess Bride,1987,PG
+351,Guardians of the Galaxy,2014,PG-13
+352,Deadpool,2016,R
+353,La La Land,2016,PG-13
+354,Donnie Darko,2001,R
+355,Her,2013,R
+356,Black Swan,2010,R
+357,The Avengers,2012,PG-13
+358,The Revenant,2015,R
+359,The Martian,2015,PG-13
+360,The Incredibles,2004,PG
+361,Zootopia,2016,PG
+362,Slumdog Millionaire,2008,R
+363,12 Monkeys,1995,R
+364,The Shop Around the Corner,1940,Approved
+365,The Imitation Game,2014,PG-13
+366,Sin City,2005,R
+367,Groundhog Day,1993,PG
+368,Magnolia,1999,R
+369,Planet of the Apes,1968,G
+370,Sling Blade,1996,R
+371,The Pursuit of Happyness,2006,PG-13
+372,Soul,2020,PG
+373,Beauty and the Beast,1991,G
+374,Stalker,1979,Not Rated
+375,Aladdin,1992,G
+376,Rosemary's Baby,1968,R
+377,The Graduate,1967,PG
+378,Rio Bravo,1959,Approved
+379,CODA,2021,PG-13
+380,Perfect Blue,1997,Not Rated
+381,Dances with Wolves,1990,PG-13
+382,Scent of a Woman,1992,R
+383,Blood Diamond,2006,R
+384,Big Fish,2003,PG-13
+385,Young Frankenstein,1974,PG
+386,Akira,1988,R
+387,The Last Picture Show,1971,R
+388,Kill Bill: Vol. 2,2004,R
+389,Rain Man,1988,R
+390,The Invisible Guest,2016,TV-MA
+391,Dogville,2003,R
+392,Dog Day Afternoon,1975,R
+393,The King's Speech,2010,R
+394,Lion,2016,PG-13
+395,8½,1963,Not Rated
+396,The Bourne Ultimatum,2007,PG-13
+397,Monty Python's Life of Brian,1979,R
+398,JFK,1991,R
+399,Baahubali: The Beginning,2015,Not Rated
+400,Central Station,1998,R
+401,Cinderella Man,2005,PG-13
+402,Chungking Express,1994,PG-13
+403,Annie Hall,1977,PG
+404,Roman Holiday,1953,Approved
+405,Butch Cassidy and the Sundance Kid,1969,PG
+406,Cool Hand Luke,1967,Approved
+407,The Night of the Hunter,1955,Approved
+408,Papillon,1973,R
+409,Secrets & Lies,1996,R
+410,Amores Perros,2000,R
+411,Nausicaä of the Valley of the Wind,1984,Not Rated
+412,La Dolce Vita,1960,Not Rated
+413,Fiddler on the Roof,1971,G
+414,Ip Man,2008,R
+415,What Ever Happened to Baby Jane?,1962,Approved
+416,Castle in the Sky,1986,PG
+417,Gandhi,1982,PG
+418,Persona,1966,Not Rated
+419,Pink Floyd: The Wall,1982,R
+420,Anatomy of a Murder,1959,Approved
+421,A Matter of Life and Death,1946,PG
+422,Le Samouraï,1967,GP
+423,The Celebration,1998,R
+424,The 400 Blows,1959,Not Rated
+425,Fitzcarraldo,1982,PG
+426,The Cabinet of Dr. Caligari,1920,Not Rated
+427,The Straight Story,1999,G
+428,A Woman Under the Influence,1974,R
+429,Mommy,2014,R
+430,Infernal Affairs,2002,R
+431,Who's Afraid of Virginia Woolf?,1966,Approved
+432,Touch of Evil,1958,PG-13
+433,Song of the Sea,2014,PG
+434,Wolfwalkers,2020,PG
+435,The Tale of The Princess Kaguya,2013,PG
+436,"Spring, Summer, Fall, Winter... and Spring",2003,R
+437,The Legend of 1900,1998,R
+438,Elite Squad,2007,R
+439,Underground,1995,Not Rated
+440,Brief Encounter,1945,Approved
+441,Nobody Knows,2004,PG-13
+442,Ivan's Childhood,1962,Not Rated
+443,Persepolis,2007,PG-13
+444,Andrei Rublev,1966,R
+445,Winter Sleep,2014,Not Rated
+446,Sweet Smell of Success,1957,Approved
+447,"Rome, Open City",1945,Not Rated
+448,Out of the Past,1947,Approved
+449,The Diving Bell and the Butterfly,2007,PG-13
+450,The Sea Inside,2004,PG-13
+451,"Quo Vadis, Aida?",2020,TV-MA
+452,Throne of Blood,1957,Not Rated
+453,The Exterminating Angel,1962,Not Rated
+454,Au Revoir les Enfants,1987,PG
+455,The Hidden Fortress,1958,Not Rated
+456,The Virgin Spring,1960,Not Rated
+457,Departures,2008,PG-13
+458,Dilwale Dulhania Le Jayenge,1995,Not Rated
+459,The Wild Pear Tree,2018,Not Rated
+460,La Strada,1954,Not Rated
+461,Elite Squad 2: The Enemy Within,2010,Not Rated
+462,Kind Hearts and Coronets,1949,Approved
+463,Pink,2016,Not Rated
+464,Haider,2014,Not Rated
+465,Sirf Ek Bandaa Kaafi Hai,2023,Not Rated
+466,Winter Light,1963,Not Rated
+467,Sanjuro,1962,Not Rated
+468,Andaz Apna Apna,1994,Not Rated
+469,"Black Cat, White Cat",1998,R
+470,Tae Guk Gi: The Brotherhood of War,2004,R
+471,Special 26,2013,Not Rated
+472,Lage Raho Munna Bhai,2006,Not Rated
+473,G.O.R.A.,2004,Not Rated
+474,M.S. Dhoni: The Untold Story,2016,Not Rated
+475,Vizontele,2001,Not Rated
+476,The Breath,2009,Not Rated
+477,A Christmas Story,1983,PG
+478,The Holdovers,2023,R
+479,Titanic,1997,PG-13
+480,Miracle on 34th Street,1947,Approved
+481,The Nightmare Before Christmas,1993,PG
+482,Harry Potter and the Prisoner of Azkaban,2004,PG
+483,Knives Out,2019,PG-13
+484,Perfect Days,2023,PG
+485,Guardians of the Galaxy Vol. 3,2023,PG-13
+486,True Romance,1993,R
+487,Edward Scissorhands,1990,PG-13
+488,Mulholland Drive,2001,R
+489,Arrival,2016,PG-13
+490,Avatar,2009,PG-13
+491,Boogie Nights,1997,R
+492,Iron Man,2008,PG-13
+493,Edge of Tomorrow,2014,PG-13
+494,The Perks of Being a Wallflower,2012,PG-13
+495,Shrek,2001,PG
+496,Almost Famous,2000,R
+497,Zack Snyder's Justice League,2021,R
+498,Thor: Ragnarok,2017,PG-13
+499,Shaun of the Dead,2004,R
+500,Mystic River,2003,R
+501,Children of Men,2006,R
+502,Bohemian Rhapsody,2018,PG-13
+503,E.T. the Extra-Terrestrial,1982,PG
+504,Star Trek,2009,PG-13
+505,Jojo Rabbit,2019,PG-13
+506,In Bruges,2008,R
+507,Wonder,2017,PG
+508,Carlito's Way,1993,R
+509,Fantastic Mr. Fox,2009,PG
+510,District 9,2009,R
+511,X-Men: Days of Future Past,2014,PG-13
+512,Spartacus,1960,PG-13
+513,The Blues Brothers,1980,R
+514,This Is Spinal Tap,1984,R
+515,Toy Story 2,1999,G
+516,Dallas Buyers Club,2013,R
+517,Ghost in the Shell,1995,TV-MA
+518,Life of Pi,2012,PG
+519,Marriage Story,2019,R
+520,The Maltese Falcon,1941,Approved
+521,A Fistful of Dollars,1964,R
+522,"Crouching Tiger, Hidden Dragon",2000,PG-13
+523,Togo,2019,PG
+524,The Ten Commandments,1956,G
+525,Boyhood,2014,R
+526,Doctor Zhivago,1965,Approved
+527,Do the Right Thing,1989,R
+528,The Sacrifice,1986,PG
+529,A Streetcar Named Desire,1951,Approved
+530,Wings of Desire,1987,PG-13
+531,"Blood In, Blood Out",1993,R
+532,The Wrestler,2008,R
+533,Solaris,1972,PG
+534,Sing Street,2016,PG-13
+535,The Lion in Winter,1968,PG
+536,King Kong,1933,Approved
+537,Strangers on a Train,1951,PG
+538,The Leopard,1963,PG
+539,Hero,2002,PG-13
+540,In the Heat of the Night,1967,Approved
+541,Mirror,1975,Not Rated
+542,The Manchurian Candidate,1962,PG-13
+543,Before Midnight,2013,R
+544,Dancer in the Dark,2000,R
+545,All the President's Men,1976,PG
+546,The Big Sleep,1946,Approved
+547,Being There,1979,PG
+548,Shoplifters,2018,R
+549,The Conformist,1970,R
+550,High Noon,1952,PG
+551,Once Were Warriors,1994,R
+552,The Wild Bunch,1969,R
+553,Rope,1948,Approved
+554,A Taxi Driver,2017,Not Rated
+555,Notorious,1946,Approved
+556,The Thin Man,1934,TV-PG
+557,The Raid 2,2014,R
+558,Patton,1970,PG
+559,Harold and Maude,1971,PG
+560,Laura,1944,Approved
+561,The Hustler,1961,Approved
+562,Talk to Her,2002,R
+563,Arsenic and Old Lace,1944,Approved
+564,In Cold Blood,1967,R
+565,The Killing,1956,Approved
+566,Amour,2012,PG-13
+567,Short Term 12,2013,R
+568,Stalag 17,1953,Approved
+569,The Adventures of Robin Hood,1938,PG
+570,My Name Is Khan,2010,PG-13
+571,Head-On,2004,R
+572,Harvey,1950,Approved
+573,Nostalghia,1983,Not Rated
+574,Sleuth,1972,PG
+575,My Sassy Girl,2001,Not Rated
+576,Cat on a Hot Tin Roof,1958,Approved
+577,The Red Circle,1970,Not Rated
+578,Cries & Whispers,1972,R
+579,My Man Godfrey,1936,Approved
+580,The Big Heat,1953,Approved
+581,"4 Months, 3 Weeks and 2 Days",2007,Not Rated
+582,Kagemusha: The Shadow Warrior,1980,PG
+583,3-Iron,2004,R
+584,Mildred Pierce,1945,Approved
+585,In a Lonely Place,1950,Approved
+586,Battleship Potemkin,1925,Not Rated
+587,About Elly,2009,TV-PG
+588,The Way He Looks,2014,Not Rated
+589,Kal Ho Naa Ho,2003,Not Rated
+590,Elevator to the Gallows,1958,Not Rated
+591,The Return,2003,Not Rated
+592,No Man's Land,2001,R
+593,The Lost Weekend,1945,Approved
+594,Evangelion: 2.0 You Can (Not) Advance,2009,TV-14
+595,Nine Queens,2000,R
+596,Beauty and the Beast,1946,Not Rated
+597,Pad Man,2018,PG-13
+598,The Rules of the Game,1939,Not Rated
+599,Jab We Met,2007,Not Rated
+600,Gully Boy,2019,Not Rated
+601,Through a Glass Darkly,1961,Not Rated
+602,Sullivan's Travels,1941,Approved
+603,Baby,2015,Not Rated
+604,Super 30,2019,Not Rated
+605,Dev.D,2009,Not Rated
+606,Badhaai Ho,2018,Not Rated
+607,Airlift,2016,Not Rated
+608,The Batman,2022,PG-13
+609,The Day of the Jackal,1973,PG
+610,Poor Things,2023,R
+611,The Muppet Christmas Carol,1992,G
+612,Everything Everywhere All at Once,2022,R
+613,Nosferatu: A Symphony of Horror,1922,Not Rated
+614,Little Women,2019,PG
+615,The Gentlemen,2019,R
+616,Pride & Prejudice,2005,PG
+617,The Notebook,2004,PG-13
+618,Get Out,2017,R
+619,Puss in Boots: The Last Wish,2022,PG
+620,Tombstone,1993,R
+621,Skyfall,2012,PG-13
+622,Rogue One: A Star Wars Story,2016,PG-13
+623,Call Me by Your Name,2017,R
+624,Mary Poppins,1964,G
+625,Atonement,2007,R
+626,The Hateful Eight,2015,R
+627,The Hobbit: An Unexpected Journey,2012,PG-13
+628,American Gangster,2007,R
+629,Apocalypto,2006,R
+630,Ghostbusters,1984,PG
+631,The Breakfast Club,1985,R
+632,Manchester by the Sea,2016,R
+633,About Time,2013,R
+634,The Girl with the Dragon Tattoo,2011,R
+635,Dunkirk,2017,PG-13
+636,Drive,2011,R
+637,The Irishman,2019,R
+638,Willy Wonka & the Chocolate Factory,1971,G
+639,All Quiet on the Western Front,2022,R
+640,The Big Short,2015,R
+641,The Social Network,2010,PG-13
+642,Past Lives,2023,PG-13
+643,Hidden Figures,2016,PG
+644,Star Wars: Episode VII - The Force Awakens,2015,PG-13
+645,Training Day,2001,R
+646,RRR,2022,TV-MA
+647,Ferris Bueller's Day Off,1986,PG-13
+648,Hot Fuzz,2007,R
+649,Coraline,2009,PG
+650,The Hobbit: The Desolation of Smaug,2013,PG-13
+651,Society of the Snow,2023,R
+652,Close,2022,PG-13
+653,Predator,1987,R
+654,The Fall,2006,R
+655,Nightcrawler,2014,R
+656,Misery,1990,R
+657,The Curious Case of Benjamin Button,2008,PG-13
+658,Cast Away,2000,PG-13
+659,Captain America: Civil War,2016,PG-13
+660,The Bourne Identity,2002,PG-13
+661,Paddington 2,2017,PG
+662,Remember the Titans,2000,PG
+663,The Fugitive,1993,PG-13
+664,The Untouchables,1987,R
+665,Little Miss Sunshine,2006,R
+666,The Last Samurai,2003,R
+667,Monster,2023,PG-13
+668,Big Hero 6,2014,PG
+669,Brazil,1985,R
+670,Back to the Future Part II,1989,PG
+671,I Saw the Devil,2010,Not Rated
+672,Moon,2009,R
+673,Serenity,2005,PG-13
+674,Awakenings,1990,PG-13
+675,The Sandlot,1993,PG
+676,The Outlaw Josey Wales,1976,PG
+677,How to Train Your Dragon 2,2014,PG
+678,A Bronx Tale,1993,R
+679,Captain Fantastic,2016,R
+680,Boyz n the Hood,1991,R
+681,The Searchers,1956,Approved
+682,Captain Phillips,2013,PG-13
+683,Kiki's Delivery Service,1989,G
+684,Straight Outta Compton,2015,R
+685,The Man from Earth,2007,Not Rated
+686,Moonrise Kingdom,2012,PG-13
+687,Walk the Line,2005,PG-13
+688,Midnight Cowboy,1969,R
+689,The Insider,1999,R
+690,Let the Right One In,2008,R
+691,Glory,1989,R
+692,The Fighter,2010,R
+693,Ninja Scroll,1993,Not Rated
+694,Tokyo Godfathers,2003,PG-13
+695,The Girl with the Dragon Tattoo,2009,R
+696,Mississippi Burning,1988,R
+697,Dawn of the Dead,1978,Unrated
+698,Cabaret,1972,PG
+699,Ed Wood,1994,R
+700,Lilya 4-Ever,2002,R
+701,Thirteen Lives,2022,PG-13
+702,The King of Comedy,1982,PG
+703,The Remains of the Day,1993,PG
+704,Isle of Dogs,2018,PG-13
+705,All That Jazz,1979,R
+706,Hunt for the Wilderpeople,2016,PG-13
+707,"Aguirre, the Wrath of God",1972,Not Rated
+708,Breaking the Waves,1996,R
+709,Night of the Living Dead,1968,R
+710,The Best Offer,2013,R
+711,Charade,1963,Approved
+712,The Killing Fields,1984,R
+713,Jujutsu Kaisen 0,2021,PG-13
+714,A Prophet,2009,R
+715,Kramer vs. Kramer,1979,PG
+716,The Right Stuff,1983,PG
+717,My Left Foot,1989,R
+718,October Sky,1999,PG
+719,Letters from Iwo Jima,2006,R
+720,The Artist,2011,PG-13
+721,The Philadelphia Story,1940,Approved
+722,The Wind Rises,2013,PG-13
+723,Three Colors: Blue,1993,R
+724,Gaslight,1944,Approved
+725,The Chaser,2008,Not Rated
+726,The Umbrellas of Cherbourg,1964,Not Rated
+727,Freaks,1932,Not Rated
+728,Guess Who's Coming to Dinner,1967,Approved
+729,Stagecoach,1939,Approved
+730,The World's Fastest Indian,2005,PG-13
+731,Once,2006,R
+732,You Can't Take It with You,1938,Approved
+733,Shadow of a Doubt,1943,PG
+734,Hannah and Her Sisters,1986,PG-13
+735,Frankenstein,1931,Approved
+736,Whisper of the Heart,1995,G
+737,Pride,2014,R
+738,Amarcord,1973,R
+739,Manhattan,1979,R
+740,East of Eden,1955,PG
+741,Veer-Zaara,2004,Not Rated
+742,The White Ribbon,2009,R
+743,All About My Mother,1999,R
+744,Loving Vincent,2017,PG-13
+745,The Chorus,2004,PG-13
+746,The Lunchbox,2013,PG
+747,Bride of Frankenstein,1935,Approved
+748,To Have and Have Not,1944,Approved
+749,Great Expectations,1946,Approved
+750,Playtime,1967,Not Rated
+751,Batman: Mask of the Phantasm,1993,PG
+752,Bringing Up Baby,1938,Approved
+753,Cowboy Bebop: The Movie,2001,TV-14
+754,Crimes and Misdemeanors,1989,PG-13
+755,His Girl Friday,1940,Approved
+756,"Like Father, Like Son",2013,Not Rated
+757,The Asphalt Jungle,1950,Approved
+758,Hiroshima Mon Amour,1959,Not Rated
+759,Brother,1997,Not Rated
+760,Once Upon a Time in Anatolia,2011,Not Rated
+761,Land of Mine,2015,R
+762,The Discreet Charm of the Bourgeoisie,1972,PG
+763,"I, Daniel Blake",2016,R
+764,Millennium Actress,2001,PG
+765,Cléo from 5 to 7,1962,Not Rated
+766,The Postman,1994,PG
+767,My Life as a Zucchini,2016,PG-13
+768,Vivre sa vie,1962,Not Rated
+769,C.R.A.Z.Y.,2005,Not Rated
+770,Knockin' on Heaven's Door,1997,Not Rated
+771,Hindi Medium,2017,Not Rated
+772,A Night at the Opera,1935,Approved
+773,Lakshya,2004,Not Rated
+774,English Vinglish,2012,Not Rated
+775,Home Alone,1990,PG
+776,Harry Potter and the Sorcerer's Stone,2001,PG
+777,The Goonies,1985,PG
+778,Harry Potter and the Goblet of Fire,2005,PG-13
+779,Sicario,2015,R
+780,Kingsman: The Secret Service,2014,R
+781,Wind River,2017,R
+782,Mission: Impossible - Dead Reckoning Part One,2023,PG-13
+783,Anatomy of a Fall,2023,R
+784,The Hangover,2009,R
+785,Harry Potter and the Deathly Hallows: Part 1,2010,PG-13
+786,Blue Is the Warmest Colour,2013,NC-17
+787,Zodiac,2007,R
+788,Ex Machina,2014,R
+789,The Banshees of Inisherin,2022,R
+790,The Count of Monte Cristo,2002,PG-13
+791,Godzilla Minus One,2023,PG-13
+792,500 Days of Summer,2009,PG-13
+793,Airplane!,1980,PG
+794,Brokeback Mountain,2005,R
+795,Tangled,2010,PG
+796,Ocean's Eleven,2001,PG-13
+797,Black Hawk Down,2001,R
+798,The Game,1997,R
+799,Taken,2008,PG-13
+800,Dirty Harry,1971,R
+801,X-Men: First Class,2011,PG-13
+802,When Harry Met Sally...,1989,R
+803,A Few Good Men,1992,R
+804,Bonnie and Clyde,1967,R
+805,Blue Velvet,1986,R
+806,Goldfinger,1964,Approved
+807,Lost in Translation,2003,R
+808,Mission: Impossible - Fallout,2018,PG-13
+809,Blazing Saddles,1974,R
+810,Y tu mamá también,2001,Not Rated
+811,Detachment,2011,Not Rated
+812,Road to Perdition,2002,R
+813,Silver Linings Playbook,2012,R
+814,Sense and Sensibility,1995,PG
+815,Gattaca,1997,PG-13
+816,The Worst Person in the World,2021,R
+817,Who Framed Roger Rabbit,1988,PG
+818,The Theory of Everything,2014,PG-13
+819,Primal Fear,1996,R
+820,Man on Fire,2004,R
+821,"O Brother, Where Art Thou?",2000,PG-13
+822,What's Eating Gilbert Grape,1993,PG-13
+823,Captain America: The Winter Soldier,2014,PG-13
+824,Fried Green Tomatoes,1991,PG-13
+825,Crash,2004,R
+826,The Boy in the Striped Pajamas,2008,PG-13
+827,First Blood,1982,R
+828,The Promised Land,2023,R
+829,Halloween,1978,R
+830,Gravity,2013,PG-13
+831,Argo,2012,R
+832,Mr. Nobody,2009,R
+833,Birdman or (The Unexpected Virtue of Ignorance),2014,R
+834,Another Round,2020,Not Rated
+835,Apollo 13,1995,PG
+836,Naked,1993,Not Rated
+837,As Good as It Gets,1997,PG-13
+838,The Conversation,1974,PG
+839,The Holy Mountain,1973,R
+840,The Magnificent Seven,1960,Approved
+841,The Fault in Our Stars,2014,PG-13
+842,Mulan,1998,G
+843,Happiness,1998,NC-17
+844,Flipped,2010,PG
+845,Donnie Brasco,1997,R
+846,Empire of the Sun,1987,PG
+847,Being John Malkovich,1999,R
+848,Wreck-It Ralph,2012,PG
+849,Philadelphia,1993,PG-13
+850,Black Narcissus,1947,Approved
+851,The Bourne Supremacy,2004,PG-13
+852,The Name of the Rose,1986,R
+853,The Lego Movie,2014,PG
+854,Glengarry Glen Ross,1992,R
+855,Ray,2004,PG-13
+856,The Great Beauty,2013,Not Rated
+857,Star Trek Into Darkness,2013,PG-13
+858,Malcolm X,1992,PG-13
+859,Billy Elliot,2000,R
+860,The French Connection,1971,R
+861,My Fair Lady,1964,G
+862,The Color Purple,1985,PG-13
+863,The Trial of the Chicago 7,2020,R
+864,Miller's Crossing,1990,R
+865,The Vanishing,1988,Not Rated
+866,Star Trek II: The Wrath of Khan,1982,PG
+867,Adaptation.,2002,R
+868,Sound of Metal,2019,R
+869,Roma,2018,R
+870,Sorcerer,1977,PG
+871,Days of Heaven,1978,PG
+872,Kung Fu Hustle,2004,R
+873,Changeling,2008,R
+874,This Is England,2006,Not Rated
+875,Cape Fear,1962,Approved
+876,Evil Dead II,1987,R
+877,Clerks,1994,R
+878,Paprika,2006,R
+879,Serpico,1973,R
+880,Lucky Number Slevin,2006,R
+881,The Dirty Dozen,1967,Approved
+882,Hamlet,1996,PG-13
+883,Finding Neverland,2004,PG
+884,Ordinary People,1980,R
+885,The Last Emperor,1987,PG-13
+886,Kubo and the Two Strings,2016,PG
+887,Good Bye Lenin!,2003,R
+888,"South Park: Bigger, Longer & Uncut",1999,R
+889,Badlands,1973,PG
+890,A Man Called Ove,2015,PG-13
+891,Fantasia,1940,G
+892,Nebraska,2013,R
+893,Mother,2009,R
+894,The Verdict,1982,R
+895,Black Book,2006,R
+896,The Day the Earth Stood Still,1951,G
+897,Key Largo,1948,Approved
+898,The Longest Day,1962,G
+899,Me and Earl and the Dying Girl,2015,PG-13
+900,Open Your Eyes,1997,R
+901,The Man from Nowhere,2010,R
+902,A Man for All Seasons,1966,G
+903,Night on Earth,1991,R
+904,Beasts of No Nation,2015,TV-MA
+905,Zulu,1964,Approved
+906,Dreams,1990,PG
+907,Red River,1948,Approved
+908,Never Look Away,2018,R
+909,The Motorcycle Diaries,2004,R
+910,Waking Life,2001,R
+911,The Quiet Man,1952,Approved
+912,Porco Rosso,1992,PG
+913,The Double Life of Véronique,1991,R
+914,Fantastic Planet,1973,PG
+915,Breathless,1960,Not Rated
+916,Perfect Strangers,2016,Not Rated
+917,The African Queen,1951,PG
+918,The Magdalene Sisters,2002,R
+919,The Broken Circle Breakdown,2012,Not Rated
+920,L'Avventura,1960,Not Rated
+921,The Killer,1989,R
+922,Scarface,1932,PG
+923,Hard Boiled,1992,R
+924,Invasion of the Body Snatchers,1956,Approved
+925,The Man Who Would Be King,1975,PG
+926,Adam's Apples,2005,R
+927,Evil,2003,Not Rated
+928,The Innocents,1961,Approved
+929,Taste of Cherry,1997,Not Rated
+930,Hedwig and the Angry Inch,2001,R
+931,Wait Until Dark,1967,Approved
+932,Joint Security Area,2000,Not Rated
+933,The Lady Vanishes,1938,Approved
+934,The Salesman,2016,PG-13
+935,The Experiment,2001,R
+936,How Green Was My Valley,1941,Approved
+937,My Darling Clementine,1946,Approved
+938,The Breadwinner,2017,PG-13
+939,The Triplets of Belleville,2003,PG-13
+940,Jules and Jim,1962,Not Rated
+941,Duck Soup,1933,Approved
+942,The Girl Who Leapt Through Time,2006,TV-PG
+943,The Purple Rose of Cairo,1985,PG
+944,The Past,2013,PG-13
+945,The Edge of Heaven,2007,Not Rated
+946,Vicky Donor,2012,Not Rated
+947,Deadpool & Wolverine,2024,R
+948,Once Upon a Time... in Hollywood,2019,R
+949,Aftersun,2022,R
+950,John Wick: Chapter 4,2023,R
+951,Watchmen,2009,R
+952,The Whale,2022,R
+953,Hell or High Water,2016,R
+954,Deadpool 2,2018,R
+955,300,2006,R
+956,The Fifth Element,1997,PG-13
+957,Office Space,1999,R
+958,The Butterfly Effect,2004,R
+959,True Grit,2010,PG-13
+960,Saw,2004,R
+961,Stardust,2007,PG-13
+962,My Cousin Vinny,1992,R
+963,Star Wars: Episode III - Revenge of the Sith,2005,PG-13
+964,3:10 to Yuma,2007,R
+965,RoboCop,1987,R
+966,Minority Report,2002,PG-13
+967,The Last of the Mohicans,1992,R
+968,Kung Fu Panda,2008,PG
+969,Deliverance,1972,R
+970,What We Do in the Shadows,2014,R
+971,Midnight in Paris,2011,PG-13
+972,Moneyball,2011,PG-13
+973,After Hours,1985,R
+974,The Machinist,2004,R
+975,The Others,2001,PG-13
+976,The Birds,1963,PG-13
+977,Toy Story 4,2019,G
+978,Gone Baby Gone,2007,R
+979,The Thin Red Line,1998,R
+980,The Boondock Saints,1999,R
+981,Dark Waters,2019,PG-13
+982,End of Watch,2012,R
+983,The Raid: Redemption,2011,R
+984,Belle de Jour,1967,Approved
+985,Run Lola Run,1998,R
+986,Rushmore,1998,R
+987,Ponyo,2008,G
+988,The Mitchells vs. the Machines,2021,PG
+989,The Last King of Scotland,2006,R
+990,Barton Fink,1991,R
+991,The Bridges of Madison County,1995,PG-13
+992,21 Grams,2003,R
+993,Rebel Without a Cause,1955,PG-13
+994,50/50,2011,R
+995,Short Cuts,1993,R
+996,Control,2007,R
+997,The Little Prince,2015,PG
+998,Frost/Nixon,2008,R
+999,Down by Law,1986,R
+1000,Zelig,1983,PG
