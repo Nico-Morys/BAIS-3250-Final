@@ -1,2 +1,2 @@
-# BAIS-3250-Final
-Nico Morys and Jacob Kopec Data Wrangling Final
+# IMDb Highest Grossing / Highest Rated Films Analysis
+Nico Morys and Jacob Kopec 3250 - Data Wrangling Final
